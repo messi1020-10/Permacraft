@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:18:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-16 19:02:12 +0000"
@@ -815,6 +821,7 @@
       "minecraft:spider": "2024-12-16 19:15:42 +0000",
       "minecraft:creeper": "2024-12-16 20:21:19 +0000",
       "minecraft:zombified_piglin": "2024-12-16 20:03:14 +0000",
+      "minecraft:husk": "2024-12-18 02:17:44 +0000",
       "minecraft:stray": "2024-12-18 01:59:58 +0000",
       "minecraft:zombie": "2024-12-16 18:24:08 +0000",
       "minecraft:zombie_villager": "2024-12-18 01:56:51 +0000"
@@ -2340,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:18:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
@@ -2608,6 +2621,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-18 01:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:18:37 +0000"
     },
     "done": true
   },
@@ -3479,6 +3498,12 @@
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:18:37 +0000"
     },
     "done": true
   },
