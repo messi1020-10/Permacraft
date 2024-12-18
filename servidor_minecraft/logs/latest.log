@@ -658,3 +658,49 @@
 [18Dec2024 16:56:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y me dejo xd
 [18Dec2024 16:56:59.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
 [18Dec2024 17:00:57.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> hermano no dura nada la armadura
+[18Dec2024 17:01:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> gg
+[18Dec2024 17:01:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy burned to death
+[18Dec2024 17:01:27.714] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jeree_whyy with unique ID travelersbackpack.standard_18.12.2024-17.01.27.dat
+[18Dec2024 17:01:27.717] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 2950 Y: -28.0 Z: 1194
+[18Dec2024 17:01:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> conchaa
+[18Dec2024 17:04:42.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79fda47b
+[18Dec2024 17:04:42.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepepro101123[/127.192.132.251:41825] logged in with entity id 33806 at (0.5, 74.0, 33.5)
+[18Dec2024 17:04:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepepro101123 joined the game
+[18Dec2024 17:04:58.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepepro101123 (18)
+[18Dec2024 17:04:58.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepepro101123
+[18Dec2024 17:05:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy fell from a high place
+[18Dec2024 17:05:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> SIIII
+[18Dec2024 17:05:28.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> me dejo en otra cuenta
+[18Dec2024 17:05:30.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> soy blas
+[18Dec2024 17:05:37.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ooh me asuste
+[18Dec2024 17:05:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> me instale el sk
+[18Dec2024 17:05:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pense q eras varquii
+[18Dec2024 17:05:50.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> uff
+[18Dec2024 17:05:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> potente seria
+[18Dec2024 17:06:25.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> bueno vere si puedo poner mi cuenta la principal
+[18Dec2024 17:06:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepepro101123> xao muchachos ya vengo
+[18Dec2024 17:06:39.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepepro101123 lost connection: Disconnected
+[18Dec2024 17:06:39.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepepro101123 left the game
+[18Dec2024 17:06:39.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepepro101123
+[18Dec2024 17:09:52.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tan solo si el back funcionaria...
+[18Dec2024 17:09:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> .
+[18Dec2024 17:10:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no tendria q caminar 2000 bloques..
+[18Dec2024 17:10:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 2000 bloques se queda corto, mas
+[18Dec2024 17:10:27.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1982, y=61, z=1026} BlockPos{x=-1982, y=58, z=1025}
+[18Dec2024 17:10:28.520] [Worker-Main-14/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Dec2024 17:10:28.521] [Worker-Main-14/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Dec2024 17:10:28.813] [Worker-Main-14/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[18Dec2024 17:10:32.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1919f61
+[18Dec2024 17:10:32.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:41381] logged in with entity id 39029 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 17:10:32.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 17:10:38.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> oo blas
+[18Dec2024 17:10:57.104] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 17:10:57.104] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 17:11:02.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[18Dec2024 17:11:02.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 17:11:02.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 17:11:17.902] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71c0bfcc
+[18Dec2024 17:11:17.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:60303] logged in with entity id 39969 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 17:11:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 17:11:20.059] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 17:11:20.060] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121

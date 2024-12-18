@@ -31,7 +31,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-12-18 16:50:51 +0000"
+      "minecraft:beach": "2024-12-18 17:05:35 +0000",
+      "minecraft:forest": "2024-12-18 16:50:51 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-18 17:06:06 +0000"
     },
     "done": false
   },
