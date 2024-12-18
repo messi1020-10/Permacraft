@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
@@ -1254,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -1620,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-16 20:03:21 +0000"
@@ -1731,6 +1749,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
     "criteria": {
       "has_stick": "2024-12-14 19:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
     },
     "done": true
   },
@@ -2298,6 +2322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
@@ -2787,6 +2817,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-18 18:50:30 +0000"
     },
     "done": true
   },
@@ -3779,6 +3815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_red_black": {
     "criteria": {
       "has_pure_blood": "2024-12-15 18:48:13 +0000"
@@ -3872,6 +3914,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
     },
     "done": true
   },
@@ -4219,6 +4267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-15 18:26:43 +0000"
@@ -4426,6 +4480,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
     },
     "done": true
   },
@@ -4801,6 +4861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 20:43:18 +0000"
@@ -4954,6 +5020,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-15 15:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-18 18:47:40 +0000"
     },
     "done": true
   },

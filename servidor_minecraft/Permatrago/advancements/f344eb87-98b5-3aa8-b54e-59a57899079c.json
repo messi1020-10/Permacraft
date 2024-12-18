@@ -3178,6 +3178,12 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2024-12-18 18:43:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/chicken": {
     "criteria": {
       "has_feather": "2024-12-16 18:15:47 +0000"

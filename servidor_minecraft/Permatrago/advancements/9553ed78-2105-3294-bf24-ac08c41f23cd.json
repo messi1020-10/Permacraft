@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 18:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 20:01:10 +0000"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2024-12-15 19:39:19 +0000"
@@ -816,6 +828,7 @@
       "minecraft:creeper": "2024-12-17 00:04:52 +0000",
       "minecraft:husk": "2024-12-15 20:44:37 +0000",
       "minecraft:silverfish": "2024-12-16 23:57:54 +0000",
+      "minecraft:enderman": "2024-12-18 18:48:38 +0000",
       "minecraft:zombie": "2024-12-15 20:14:14 +0000"
     },
     "done": false
@@ -1240,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-18 18:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-16 23:59:46 +0000"
@@ -1315,6 +1334,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 17:28:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
     },
     "done": true
   },
@@ -2285,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
@@ -2784,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 20:01:10 +0000"
@@ -2859,6 +2896,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 20:01:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
     },
     "done": true
   },
@@ -2991,6 +3034,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-15 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 18:45:26 +0000"
     },
     "done": true
   },
@@ -3247,6 +3296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-18 18:43:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-15 19:35:20 +0000"
@@ -3409,6 +3464,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 20:01:10 +0000"
@@ -3508,6 +3569,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-15 20:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 18:45:26 +0000"
     },
     "done": true
   },
@@ -3652,6 +3725,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-15 20:26:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 18:45:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 18:50:23 +0000"
     },
     "done": true
   },
