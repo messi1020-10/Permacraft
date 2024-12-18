@@ -261,3 +261,7 @@
 [18Dec2024 14:11:40.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
 [18Dec2024 14:11:40.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
 [18Dec2024 14:11:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[18Dec2024 14:25:06.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Nightmare Stalker
+[18Dec2024 14:25:06.660] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_18.12.2024-14.25.06.dat
+[18Dec2024 14:25:06.662] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 6499 Y: -49.878703159460805 Z: 208
+[18Dec2024 14:25:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Teleported DuckZJ to 6500.500000, -50.000000, 208.500000]
