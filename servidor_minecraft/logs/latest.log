@@ -2042,3 +2042,66 @@
 [18Dec2024 01:47:11.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
 [18Dec2024 01:47:11.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
 [18Dec2024 01:47:11.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 01:48:08.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2677, l='ServerLevel[Permatrago]', x=-2019.00, y=63.00, z=1068.39] died, message: 'Villager was slain by Zombie Villager'
+[18Dec2024 01:48:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que se utiliza para mejorar lo de lobo?
+[18Dec2024 01:48:33.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> higado
+[18Dec2024 01:48:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> y huesos rotos
+[18Dec2024 01:50:10.206] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44f6ccf3
+[18Dec2024 01:50:10.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:35521] logged in with entity id 4322 at (-1945.1563115424253, 50.25, 1089.887499988079)
+[18Dec2024 01:50:10.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 01:50:12.397] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 01:50:12.398] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 01:50:13.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[18Dec2024 01:50:13.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[18Dec2024 01:50:13.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 01:50:22.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48eacb85
+[18Dec2024 01:50:22.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:36853] logged in with entity id 4379 at (-1945.1563115424253, 50.25, 1089.887499988079)
+[18Dec2024 01:50:22.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 01:50:23.224] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 01:50:23.225] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 01:50:23.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[18Dec2024 01:50:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[18Dec2024 01:50:23.520] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 01:50:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que
+[18Dec2024 01:50:48.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> para que
+[18Dec2024 01:50:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> te doy los que tengo
+[18Dec2024 01:50:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[18Dec2024 01:50:57.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> los huesos y higado
+[18Dec2024 01:51:05.050] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22c56f71
+[18Dec2024 01:51:05.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:40531] logged in with entity id 4619 at (-1945.1563115424253, 50.25, 1089.887499988079)
+[18Dec2024 01:51:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 01:51:05.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 01:51:05.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 01:51:05.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> u
+[18Dec2024 01:51:07.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[18Dec2024 01:51:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[18Dec2024 01:51:07.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 01:51:14.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> em
+[18Dec2024 01:51:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> necesitas way?
+[18Dec2024 01:51:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[18Dec2024 01:51:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> espera aca
+[18Dec2024 01:51:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no te muevas
+[18Dec2024 01:51:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ahh
+[18Dec2024 01:51:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no tengo compañeros conectados
+[18Dec2024 01:51:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> xd
+[18Dec2024 01:51:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> gracias
+[18Dec2024 01:51:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> a vos
+[18Dec2024 01:52:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> necesito un monton de sangre de vampiro
+[18Dec2024 01:52:51.203] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@312452f5
+[18Dec2024 01:52:51.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:51771] logged in with entity id 5365 at (-1949.55421519431, 50.25, 1089.5929178092163)
+[18Dec2024 01:52:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 01:52:53.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 01:52:53.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 01:54:58.008] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c0f1f5c
+[18Dec2024 01:54:58.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:55861] logged in with entity id 6124 at (-1945.1563115424253, 50.25, 1089.887499988079)
+[18Dec2024 01:54:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 01:54:59.744] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 01:54:59.745] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 01:55:55.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si te consigo mas te lo doy
+[18Dec2024 01:56:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en un rato vuelvo me voy a comer
+[18Dec2024 01:56:05.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[18Dec2024 01:56:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[18Dec2024 01:56:05.922] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[18Dec2024 01:56:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeeee
+[18Dec2024 01:57:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Zombie
+[18Dec2024 01:59:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was shot by Skeleton

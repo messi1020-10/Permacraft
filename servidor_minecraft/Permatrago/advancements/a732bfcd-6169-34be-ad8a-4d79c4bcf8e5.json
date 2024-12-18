@@ -3547,6 +3547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 01:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-14 20:50:05 +0000"
@@ -5042,6 +5048,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2024-12-14 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 01:53:52 +0000"
     },
     "done": true
   },

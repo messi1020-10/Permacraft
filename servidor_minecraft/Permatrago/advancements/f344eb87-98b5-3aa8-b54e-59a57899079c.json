@@ -533,15 +533,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-16 20:33:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-16 20:33:15 +0000"
     },
     "done": true
   },
@@ -791,7 +791,8 @@
       "minecraft:spider": "2024-12-16 19:15:42 +0000",
       "minecraft:creeper": "2024-12-16 20:21:19 +0000",
       "minecraft:zombified_piglin": "2024-12-16 20:03:14 +0000",
-      "minecraft:zombie": "2024-12-16 18:24:08 +0000"
+      "minecraft:zombie": "2024-12-16 18:24:08 +0000",
+      "minecraft:zombie_villager": "2024-12-18 01:56:51 +0000"
     },
     "done": false
   },
@@ -801,15 +802,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/hunter/item_med_chair": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_gold": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
     },
     "done": true
   },
@@ -843,15 +844,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-16 19:02:40 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 19:02:40 +0000"
     },
     "done": true
   },
@@ -957,27 +958,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-16 22:59:08 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/vampirism/vampire/blood_pedestal": {
     "criteria": {
       "has_gold": "2024-12-16 19:01:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_gravel": "2024-12-16 23:55:51 +0000"
+      "has_gold_block": "2024-12-16 22:59:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-16 20:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-16 23:55:51 +0000"
     },
     "done": true
   },
@@ -1347,15 +1348,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-16 23:55:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/fox": {
     "criteria": {
       "has_sweet_berries": "2024-12-16 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-16 23:55:51 +0000"
     },
     "done": true
   },
@@ -1756,15 +1757,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/golden_glaive": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-16 19:01:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-16 19:00:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-16 19:01:11 +0000"
     },
     "done": true
   },
@@ -1918,15 +1919,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2024-12-17 00:35:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-16 20:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
     },
     "done": true
   },
@@ -2086,15 +2087,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-16 19:49:56 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
     },
     "done": true
   },
@@ -2122,15 +2123,15 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-12-16 22:58:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-16 22:58:03 +0000"
     },
     "done": true
   },
@@ -2266,27 +2267,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/skillet": {
-    "criteria": {
-      "has_brick": "2024-12-16 19:00:52 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
-      "has_bowl": "2024-12-17 00:48:05 +0000"
+      "has_brick": "2024-12-16 19:00:52 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-17 00:48:05 +0000"
     },
     "done": true
   },
@@ -2357,15 +2358,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-17 00:35:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -2381,15 +2382,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-16 22:24:23 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-16 22:24:23 +0000"
     },
     "done": true
   },
@@ -2435,15 +2436,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-16 19:24:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-16 19:20:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 19:24:27 +0000"
     },
     "done": true
   },
@@ -2501,15 +2502,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
     },
     "done": true
   },
@@ -2627,15 +2628,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/iron_longsword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
     },
     "done": true
   },
@@ -2663,15 +2664,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-16 19:02:12 +0000"
     },
     "done": true
   },
@@ -2909,15 +2910,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-17 00:48:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-17 00:48:05 +0000"
     },
     "done": true
   },
@@ -2993,15 +2994,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-17 00:35:48 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/werewolves/silver_sword": {
     "criteria": {
       "has_sticks": "2024-12-16 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
     },
     "done": true
   },
@@ -3114,15 +3115,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
     },
     "done": true
   },
@@ -3402,15 +3403,15 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2024-12-16 20:12:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-16 20:12:33 +0000"
     },
     "done": true
   },
@@ -3762,15 +3763,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/briefcase": {
-    "criteria": {
-      "has_iron": "2024-12-16 19:02:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2024-12-16 19:02:12 +0000"
     },
     "done": true
   },
@@ -3801,6 +3802,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 01:56:47 +0000"
     },
     "done": true
   },
