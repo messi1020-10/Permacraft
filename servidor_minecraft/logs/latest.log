@@ -436,3 +436,7 @@
 [18Dec2024 16:10:31.910] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Blasv1901121'/12622, l='ServerLevel[Permatrago]', x=1781.70, y=76.00, z=404.70, removed=UNLOADED_WITH_PLAYER]
 [18Dec2024 16:13:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [A Cut Above the Rest]
 [18Dec2024 16:13:39.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Hammer Time!]
+[18Dec2024 16:22:03.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5970, y=67, z=182} BlockPos{x=5969, y=68, z=183}
+[18Dec2024 16:23:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> 6011
+[18Dec2024 16:27:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> 214
+[18Dec2024 16:29:33.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6009, y=66, z=166} BlockPos{x=6009, y=64, z=165}

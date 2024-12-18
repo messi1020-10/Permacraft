@@ -3368,6 +3368,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2024-12-18 16:17:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-14 19:47:52 +0000"
