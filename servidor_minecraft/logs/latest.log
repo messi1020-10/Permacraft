@@ -1438,3 +1438,8 @@
 [18Dec2024 21:59:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
 [18Dec2024 21:59:26.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
 [18Dec2024 22:23:35.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> zzz
+[18Dec2024 23:11:52.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Backpack Full of Ammo!]
+[18Dec2024 23:14:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [An Even Bigger Quiver?]
+[18Dec2024 23:18:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Nightmare Stalker
+[18Dec2024 23:18:02.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_18.12.2024-23.18.02.dat
+[18Dec2024 23:18:02.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5960 Y: 63.41999998688698 Z: 133
