@@ -274,3 +274,16 @@
 [18Dec2024 15:39:17.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [18Dec2024 15:39:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Dec2024 15:39:25.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[18Dec2024 15:40:25.748] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@537f0739
+[18Dec2024 15:40:25.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:50331] logged in with entity id 824 at (6520.699999988079, -49.0, 253.6982473524538)
+[18Dec2024 15:40:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[18Dec2024 15:40:29.624] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[18Dec2024 15:40:29.625] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[18Dec2024 15:45:44.942] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75e679b9
+[18Dec2024 15:45:44.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:36893] logged in with entity id 1624 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 15:45:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 15:45:58.455] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 15:45:58.456] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 15:49:07.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 15:49:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 15:49:07.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
