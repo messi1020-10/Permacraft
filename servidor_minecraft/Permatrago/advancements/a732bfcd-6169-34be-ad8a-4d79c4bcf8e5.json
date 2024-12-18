@@ -1781,6 +1781,13 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "zombie_head": "2024-12-18 02:48:40 +0000",
+      "skeleton_skull": "2024-12-18 02:48:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-14 20:47:50 +0000"
