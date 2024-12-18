@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2024-12-14 20:27:50 +0000"
@@ -1433,6 +1439,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
     "criteria": {
       "has_diamond": "2024-12-14 20:12:18 +0000"
@@ -1664,6 +1676,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-14 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -1938,6 +1956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -2031,6 +2055,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -2157,6 +2187,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -2340,9 +2376,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -2451,6 +2505,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -2922,6 +2982,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
@@ -3104,6 +3170,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 19:47:50 +0000"
@@ -3221,6 +3293,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -3442,6 +3520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -3535,6 +3619,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -3652,6 +3742,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-14 19:38:39 +0000"
@@ -3727,6 +3823,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-16 20:36:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -3889,6 +3991,12 @@
   "vampirism:recipes/vampirism/weapontable/crossbow_arrow_spitfire": {
     "criteria": {
       "has_crossbow_arrow_normal": "2024-12-15 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -4207,6 +4315,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
@@ -4387,6 +4501,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-14 19:48:18 +0000"
@@ -4492,6 +4612,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },
@@ -4911,6 +5037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-18 17:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 19:49:06 +0000"
@@ -5247,6 +5379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2024-12-14 19:48:18 +0000"
@@ -5394,6 +5532,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-18 18:09:45 +0000"
     },
     "done": true
   },

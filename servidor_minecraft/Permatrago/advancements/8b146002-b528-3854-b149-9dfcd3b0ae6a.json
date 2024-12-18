@@ -4669,6 +4669,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-18 17:44:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
