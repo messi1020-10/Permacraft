@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-18 16:13:32 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -2463,6 +2469,12 @@
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-16 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2024-12-18 16:13:39 +0000"
     },
     "done": true
   },

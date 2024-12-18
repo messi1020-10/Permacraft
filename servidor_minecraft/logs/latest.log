@@ -425,3 +425,14 @@
 [18Dec2024 16:10:15.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [18Dec2024 16:10:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [18Dec2024 16:10:15.693] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:10:31.441] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34f82656
+[18Dec2024 16:10:31.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:36413] logged in with entity id 12622 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:10:31.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:10:31.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:10:31.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:10:31.897] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:10:31.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:10:31.909] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:10:31.910] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Blasv1901121'/12622, l='ServerLevel[Permatrago]', x=1781.70, y=76.00, z=404.70, removed=UNLOADED_WITH_PLAYER]
+[18Dec2024 16:13:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [A Cut Above the Rest]
+[18Dec2024 16:13:39.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Hammer Time!]
