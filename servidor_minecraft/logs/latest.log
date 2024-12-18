@@ -529,3 +529,59 @@
 [18Dec2024 16:40:38.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [18Dec2024 16:40:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [18Dec2024 16:40:38.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:43:54.945] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5953c312
+[18Dec2024 16:43:54.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:58677] logged in with entity id 22917 at (-1963.3942131190197, 50.0, 1090.524008464445)
+[18Dec2024 16:43:54.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 16:43:56.004] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fd33e94
+[18Dec2024 16:43:56.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:50153] logged in with entity id 23111 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:43:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:43:56.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:43:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:43:56.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:43:56.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 16:43:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 16:43:56.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 16:44:10.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b54da42
+[18Dec2024 16:44:10.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:40595] logged in with entity id 23250 at (-1963.3942131190197, 50.0, 1090.524008464445)
+[18Dec2024 16:44:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 16:44:10.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 16:44:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 16:44:10.594] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 16:44:50.748] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18fe3eb0
+[18Dec2024 16:44:50.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:40163] logged in with entity id 23470 at (-1985.2263192280113, 70.0, 1126.1269593894392)
+[18Dec2024 16:44:50.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 16:44:54.997] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 16:44:54.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 16:45:20.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e4aa121
+[18Dec2024 16:45:20.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:56673] logged in with entity id 23688 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:45:20.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:45:21.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:45:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:45:21.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:45:21.749] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 16:45:24.000] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5512409b
+[18Dec2024 16:45:24.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:45327] logged in with entity id 23739 at (-1963.3942131190197, 50.0, 1090.524008464445)
+[18Dec2024 16:45:24.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 16:45:26.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 16:45:26.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 16:47:08.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a2a05c9
+[18Dec2024 16:47:08.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:36285] logged in with entity id 24299 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:47:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:47:08.552] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:47:08.553] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:47:08.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:47:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:47:08.614] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:47:14.001] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2753bab0
+[18Dec2024 16:47:14.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:60257] logged in with entity id 24439 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:47:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:47:14.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:47:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:47:14.612] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:47:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> da amigo
+[18Dec2024 16:47:38.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> porque volvimos 300 años A.C
+[18Dec2024 16:49:06.332] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[18Dec2024 16:50:50.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a18917a
+[18Dec2024 16:50:50.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepepro101123[/127.192.132.251:54357] logged in with entity id 25758 at (0.5, 74.0, 33.5)
+[18Dec2024 16:50:50.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepepro101123 joined the game
+[18Dec2024 16:50:50.752] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] pepepro101123 first spawned. Set First Dragon to 1
