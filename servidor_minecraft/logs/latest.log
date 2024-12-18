@@ -1248,3 +1248,31 @@
 [18Dec2024 19:41:59.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [18Dec2024 19:41:59.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [18Dec2024 19:41:59.590] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 19:47:52.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5960, y=65, z=211} BlockPos{x=5959, y=66, z=211}
+[18Dec2024 19:47:52.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5960, y=65, z=211} BlockPos{x=5959, y=66, z=211}
+[18Dec2024 19:47:52.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5960, y=65, z=211} BlockPos{x=5959, y=66, z=211}
+[18Dec2024 19:50:29.589] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49f57a2f
+[18Dec2024 19:50:29.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:44275] logged in with entity id 166807 at (6002.070701481708, 64.0, 152.88031667198214)
+[18Dec2024 19:50:29.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[18Dec2024 19:50:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> boeee
+[18Dec2024 19:50:32.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[18Dec2024 19:50:32.717] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[18Dec2024 19:50:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> oña
+[18Dec2024 19:50:46.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5959, y=67, z=186} BlockPos{x=5959, y=66, z=185}
+[18Dec2024 19:50:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> booooooooeeeeeeeeeeeeeee
+[18Dec2024 19:51:49.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5956, y=67, z=197} BlockPos{x=5956, y=67, z=196}
+[18Dec2024 19:52:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> toco aplanar
+[18Dec2024 19:52:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tene cristal?
+[18Dec2024 19:52:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> vidrio
+[18Dec2024 19:52:43.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[18Dec2024 19:52:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> paneles no
+[18Dec2024 19:52:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tnxs
+[18Dec2024 19:53:13.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> sabes como me voy a hacer una cocina
+[18Dec2024 19:54:10.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuero tenes?
+[18Dec2024 19:54:13.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[18Dec2024 19:54:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[18Dec2024 19:55:22.602] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fa66a3a
+[18Dec2024 19:55:22.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:55389] logged in with entity id 168667 at (-1944.5001845935476, 50.0, 1089.824999988079)
+[18Dec2024 19:55:22.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 19:55:26.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 19:55:26.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
