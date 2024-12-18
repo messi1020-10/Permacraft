@@ -353,3 +353,77 @@ Things may not work well.
 [18Dec2024 03:22:31.267] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b5d067
 [18Dec2024 03:22:31.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:46465] logged in with entity id 1354 at (-1944.9028918928038, 50.0, 1089.4975042861288)
 [18Dec2024 03:22:31.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 03:22:33.093] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 03:22:33.094] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 03:22:51.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28fc32a5
+[18Dec2024 03:22:51.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:38595] logged in with entity id 1367 at (-1974.2799738954848, 50.5, 1090.4144676706412)
+[18Dec2024 03:22:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 03:22:52.078] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 03:22:52.081] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 03:23:07.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3324e59c
+[18Dec2024 03:23:07.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:57421] logged in with entity id 1369 at (-1964.9476595766191, 50.031652574412604, 1087.3766785524278)
+[18Dec2024 03:23:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 03:23:07.672] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 03:23:07.673] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 03:23:08.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 03:23:08.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 03:23:08.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[18Dec2024 03:24:28.833] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b0bee8e
+[18Dec2024 03:24:28.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:43093] logged in with entity id 1549 at (-1964.9476595766191, 50.031652574412604, 1087.3766785524278)
+[18Dec2024 03:24:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 03:24:32.469] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 03:24:32.470] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 03:26:34.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 03:26:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 03:26:34.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 03:26:39.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61130e81
+[18Dec2024 03:26:39.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:39887] logged in with entity id 3124 at (-1968.9295306910365, 50.0, 1089.6430295006496)
+[18Dec2024 03:26:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 03:26:39.664] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 03:26:39.665] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 03:26:47.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Take Aim, Chaps!]
+[18Dec2024 03:27:15.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 03:27:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 03:27:15.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[18Dec2024 03:27:20.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 03:27:20.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 03:27:20.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 03:27:23.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[18Dec2024 03:27:23.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[18Dec2024 03:27:23.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 03:27:28.855] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@287f3493
+[18Dec2024 03:27:28.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:43891] logged in with entity id 4207 at (-1968.8424113330077, 50.0, 1089.4428437191475)
+[18Dec2024 03:27:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[18Dec2024 03:27:29.368] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[18Dec2024 03:27:29.370] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[18Dec2024 03:28:24.316] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ab2474c
+[18Dec2024 03:28:24.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:41381] logged in with entity id 4499 at (-1968.9295306910365, 50.0, 1089.6430295006496)
+[18Dec2024 03:28:24.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 03:28:26.497] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 03:28:26.498] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 03:28:27.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 03:28:27.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 03:28:27.576] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 03:28:31.920] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67a0bd4f
+[18Dec2024 03:28:31.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:58475] logged in with entity id 4500 at (-1965.630717743208, 50.03633757137516, 1087.232210659047)
+[18Dec2024 03:28:31.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 03:28:39.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm was shot by charpei
+[18Dec2024 03:28:39.463] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_18.12.2024-03.28.39.dat
+[18Dec2024 03:28:39.464] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1966 Y: 50.03633757137516 Z: 1087
+[18Dec2024 03:28:39.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Take Aim]
+[18Dec2024 03:28:39.893] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 03:28:39.895] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 03:28:40.566] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4275d836
+[18Dec2024 03:28:40.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:46171] logged in with entity id 4535 at (-1968.9295306910365, 50.0, 1089.6430295006496)
+[18Dec2024 03:28:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 03:28:40.965] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 03:28:40.966] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[18Dec2024 03:28:42.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 03:28:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 03:28:42.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 03:28:59.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Ssauromm
+[18Dec2024 03:30:10.470] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43100e54
+[18Dec2024 03:30:10.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:46297] logged in with entity id 4757 at (-1968.9295306910365, 50.0, 1089.6430295006496)
+[18Dec2024 03:30:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[18Dec2024 03:30:13.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[18Dec2024 03:30:13.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
