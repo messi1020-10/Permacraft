@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-16 18:00:53 +0000"
@@ -242,6 +248,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -332,6 +344,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -500,6 +518,12 @@
   "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
     },
     "done": true
   },
@@ -791,6 +815,7 @@
       "minecraft:spider": "2024-12-16 19:15:42 +0000",
       "minecraft:creeper": "2024-12-16 20:21:19 +0000",
       "minecraft:zombified_piglin": "2024-12-16 20:03:14 +0000",
+      "minecraft:stray": "2024-12-18 01:59:58 +0000",
       "minecraft:zombie": "2024-12-16 18:24:08 +0000",
       "minecraft:zombie_villager": "2024-12-18 01:56:51 +0000"
     },
@@ -865,6 +890,18 @@
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2024-12-16 19:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -1276,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
@@ -1411,6 +1454,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -1829,6 +1878,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
@@ -1862,6 +1917,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-12-16 18:18:35 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
     },
     "done": true
   },
@@ -1928,6 +1989,12 @@
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:59:54 +0000"
     },
     "done": true
   },
@@ -2030,6 +2097,12 @@
   "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
     },
     "done": true
   },
@@ -2430,6 +2503,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_pillar": {
     "criteria": {
       "has_stones": "2024-12-16 19:02:40 +0000"
@@ -2523,6 +2602,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-16 18:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:59:54 +0000"
     },
     "done": true
   },
@@ -2850,6 +2935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2024-12-16 18:30:28 +0000"
@@ -2901,6 +2992,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -3487,6 +3584,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 02:05:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-16 18:07:54 +0000"
@@ -3586,6 +3689,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-16 20:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
@@ -3832,6 +3941,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2024-12-16 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:02:06 +0000"
     },
     "done": true
   },
