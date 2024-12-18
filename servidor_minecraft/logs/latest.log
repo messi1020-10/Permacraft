@@ -1375,3 +1375,7 @@
 [18Dec2024 20:44:37.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1989, y=68, z=1126} BlockPos{x=-1989, y=68, z=1127}
 [18Dec2024 20:44:38.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1127} BlockPos{x=-1989, y=68, z=1128}
 [18Dec2024 20:44:38.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1127} BlockPos{x=-1989, y=68, z=1128}
+[18Dec2024 20:47:21.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1986, y=69, z=1097} BlockPos{x=-1981, y=67, z=1107}
+[18Dec2024 20:47:21.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1986, y=69, z=1097} BlockPos{x=-1981, y=67, z=1107}
+[18Dec2024 20:48:46.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[18Dec2024 20:56:24.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Voluntary Exile]
