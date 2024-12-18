@@ -3406,6 +3406,7 @@
       "minecraft:sparse_jungle": "2024-12-18 17:07:47 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 20:05:57 +0000",
       "minecraft:river": "2024-12-15 20:01:18 +0000",
+      "minecraft:snowy_plains": "2024-12-18 20:24:59 +0000",
       "minecraft:dripstone_caves": "2024-12-16 17:14:40 +0000",
       "minecraft:snowy_taiga": "2024-12-18 19:56:29 +0000",
       "minecraft:forest": "2024-12-15 19:33:55 +0000",
@@ -3525,6 +3526,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2024-12-15 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-18 20:16:28 +0000"
     },
     "done": true
   },
@@ -4439,6 +4446,12 @@
   "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-18 18:45:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/standard": {
+    "criteria": {
+      "has_chest": "2024-12-18 20:16:28 +0000"
     },
     "done": true
   },
