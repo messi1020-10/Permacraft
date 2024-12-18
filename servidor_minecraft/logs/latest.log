@@ -1434,3 +1434,6 @@
 [18Dec2024 21:46:05.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1962, y=66, z=1051} BlockPos{x=-1962, y=64, z=1050}
 [18Dec2024 21:49:28.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1959, y=69, z=1089} BlockPos{x=-1958, y=67, z=1088}
 [18Dec2024 21:49:28.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1959, y=69, z=1089} BlockPos{x=-1958, y=67, z=1088}
+[18Dec2024 21:59:26.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 21:59:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 21:59:26.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
