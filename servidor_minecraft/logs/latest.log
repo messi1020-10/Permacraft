@@ -1341,3 +1341,21 @@
 [18Dec2024 20:23:48.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
 [18Dec2024 20:23:48.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
 [18Dec2024 20:24:04.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/189040, l='ServerLevel[Permatrago]', x=-1967.64, y=52.00, z=1058.70] died, message: 'Angry Villager drowned'
+[18Dec2024 20:29:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Vampire Diaries]
+[18Dec2024 20:29:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> che tienen yunque ustedes?
+[18Dec2024 20:29:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> DuckZJ
+[18Dec2024 20:29:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ?
+[18Dec2024 20:30:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no tengo
+[18Dec2024 20:30:11.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[18Dec2024 20:30:48.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2001, y=71, z=1138} BlockPos{x=-1999, y=69, z=1144}
+[18Dec2024 20:30:48.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2001, y=71, z=1138} BlockPos{x=-1999, y=69, z=1144}
+[18Dec2024 20:33:06.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Timed out
+[18Dec2024 20:33:06.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[18Dec2024 20:33:06.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[18Dec2024 20:33:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has reached the goal [Pray to the Goddess]
+[18Dec2024 20:33:12.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ji
+[18Dec2024 20:33:29.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 2'/194222, l='ServerLevel[Permatrago]', x=-1497.14, y=62.61, z=388.74] died: Alpha Werewolf Level 2 was slain by Alpha Werewolf Level 1
+[18Dec2024 20:33:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Smash And Bash!]
+[18Dec2024 20:33:58.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[18Dec2024 20:33:58.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[18Dec2024 20:33:58.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
