@@ -1295,3 +1295,19 @@
 [18Dec2024 20:05:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no tengo
 [18Dec2024 20:05:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok ahi consigo
 [18Dec2024 20:05:55.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo pedernal en un cofre
+[18Dec2024 20:08:34.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29a09aa8
+[18Dec2024 20:08:34.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:38541] logged in with entity id 177945 at (-1944.8455909309453, 50.0, 1089.5036900500072)
+[18Dec2024 20:08:34.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 20:08:34.769] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 20:08:34.769] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 20:08:38.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[18Dec2024 20:12:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Hot Stuff]
+[18Dec2024 20:12:46.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5998, y=73, z=209} BlockPos{x=5996, y=71, z=201}
+[18Dec2024 20:14:39.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5987, y=69, z=201} BlockPos{x=5988, y=69, z=203}
+[18Dec2024 20:14:39.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5987, y=69, z=201} BlockPos{x=5988, y=69, z=203}
+[18Dec2024 20:14:39.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5987, y=69, z=201} BlockPos{x=5988, y=69, z=203}
+[18Dec2024 20:14:39.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5987, y=69, z=201} BlockPos{x=5988, y=69, z=203}
+[18Dec2024 20:15:06.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5964, y=68, z=209} BlockPos{x=5966, y=67, z=208}
+[18Dec2024 20:15:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Blunt-force Trauma]
+[18Dec2024 20:15:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya nvl 3
+[18Dec2024 20:15:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Swashbuckler]
