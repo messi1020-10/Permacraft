@@ -704,3 +704,39 @@
 [18Dec2024 17:11:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
 [18Dec2024 17:11:20.059] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
 [18Dec2024 17:11:20.060] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 17:11:31.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Ssauromm
+[18Dec2024 17:11:31.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for patitofino123 with unique ID travelersbackpack.diamond_18.12.2024-17.11.31.dat
+[18Dec2024 17:11:31.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1944 Y: 50.0 Z: 1088
+[18Dec2024 17:11:36.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> PORFIN
+[18Dec2024 17:11:43.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> GRACIA PAPA DIO
+[18Dec2024 17:12:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck una pregunta
+[18Dec2024 17:12:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> puedo hacer un experimento?
+[18Dec2024 17:12:58.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1104, y=39, z=847} but found not block entity block Block{minecraft:water}[level=2] at location
+[18Dec2024 17:12:58.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=1104, y=39, z=847}
+[18Dec2024 17:13:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> depende
+[18Dec2024 17:13:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Corpse Fish
+[18Dec2024 17:13:36.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> es uno re ilegal segun vos
+[18Dec2024 17:13:56.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> luego me los quito nms quiero saber cuanto es el max de coras
+[18Dec2024 17:14:00.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[18Dec2024 17:14:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[18Dec2024 17:14:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si sabes que no se puede hacer no podes
+[18Dec2024 17:14:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bue nms queria saber
+[18Dec2024 17:14:34.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si queres saber hacelo en un mundo
+[18Dec2024 17:14:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> eso sirve tambien
+[18Dec2024 17:15:38.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> zzzzzzzz
+[18Dec2024 17:15:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no duerman muchachos
+[18Dec2024 17:15:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xfa
+[18Dec2024 17:15:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> bruh
+[18Dec2024 17:15:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> por
+[18Dec2024 17:15:57.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ando explorando
+[18Dec2024 17:15:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[18Dec2024 17:16:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> de paso q me perdi y busco mi casa
+[18Dec2024 17:17:34.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Is this... blood?]
+[18Dec2024 17:19:13.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 moved too quickly! -10.14655866748285,0.0,-2.2463341410245903
+[18Dec2024 17:24:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 fell from a high place
+[18Dec2024 17:24:31.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for patitofino123 with unique ID travelersbackpack.diamond_18.12.2024-17.24.31.dat
+[18Dec2024 17:24:31.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1976 Y: 53.75 Z: 1088
+[18Dec2024 17:29:25.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6012, y=67, z=205} BlockPos{x=6010, y=67, z=205}
+[18Dec2024 17:29:58.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> asu madre
+[18Dec2024 17:30:03.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> matador de vampiros V
+[18Dec2024 17:30:47.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck te sirve?
