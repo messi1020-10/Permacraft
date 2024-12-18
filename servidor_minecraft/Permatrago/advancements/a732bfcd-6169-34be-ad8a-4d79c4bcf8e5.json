@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-18 21:49:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/totem_base": {
     "criteria": {
       "has_obsidian": "2024-12-15 20:03:19 +0000"
@@ -746,6 +752,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2024-12-16 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-18 21:49:38 +0000"
     },
     "done": true
   },
@@ -5656,6 +5668,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-18 21:49:38 +0000"
     },
     "done": true
   },
