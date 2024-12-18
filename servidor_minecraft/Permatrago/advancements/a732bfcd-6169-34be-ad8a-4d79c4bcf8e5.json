@@ -979,9 +979,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2024-12-16 18:03:07 +0000"
+      "faction": "2024-12-16 18:03:07 +0000",
+      "kill": "2024-12-18 18:15:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/become_hunter": {
     "criteria": {
@@ -4575,6 +4576,7 @@
       "baked_potato": "2024-12-14 20:07:58 +0000",
       "porkchop": "2024-12-14 20:50:53 +0000",
       "apple": "2024-12-14 19:46:21 +0000",
+      "pumpkin_pie": "2024-12-18 18:19:51 +0000",
       "bread": "2024-12-14 19:42:08 +0000",
       "golden_apple": "2024-12-14 20:23:52 +0000",
       "rotten_flesh": "2024-12-14 20:24:23 +0000",
