@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-12-18 19:59:04 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
@@ -146,6 +152,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -506,6 +518,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2024-12-18 19:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -1554,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
@@ -2269,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 23:40:13 +0000"
@@ -2356,6 +2386,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-14 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -3067,6 +3103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2024-12-14 23:28:02 +0000"
@@ -3354,6 +3396,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -4025,6 +4073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-14 19:38:47 +0000"
@@ -4193,6 +4247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-14 20:28:02 +0000",
@@ -4277,6 +4337,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2024-12-18 18:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -4535,6 +4601,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-14 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
@@ -5653,6 +5725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -5716,6 +5794,12 @@
   "vampirism:recipes/vampirism/weapontable/hunter_coat_chest_normal": {
     "criteria": {
       "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-18 20:01:46 +0000"
     },
     "done": true
   },
