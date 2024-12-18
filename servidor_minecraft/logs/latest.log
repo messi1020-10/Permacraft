@@ -1379,3 +1379,34 @@
 [18Dec2024 20:47:21.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1986, y=69, z=1097} BlockPos{x=-1981, y=67, z=1107}
 [18Dec2024 20:48:46.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
 [18Dec2024 20:56:24.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Voluntary Exile]
+[18Dec2024 20:57:47.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2020, y=66, z=1154} BlockPos{x=-2019, y=64, z=1154}
+[18Dec2024 20:57:47.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2021, y=66, z=1154} BlockPos{x=-2019, y=64, z=1154}
+[18Dec2024 20:57:47.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2021, y=66, z=1154} BlockPos{x=-2019, y=64, z=1154}
+[18Dec2024 20:57:48.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2024, y=65, z=1154} BlockPos{x=-2023, y=63, z=1154}
+[18Dec2024 20:57:48.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2024, y=65, z=1154} BlockPos{x=-2023, y=63, z=1154}
+[18Dec2024 20:57:49.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2027, y=67, z=1154} BlockPos{x=-2026, y=65, z=1154}
+[18Dec2024 20:57:49.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2026, y=67, z=1154} BlockPos{x=-2026, y=65, z=1154}
+[18Dec2024 20:57:49.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2026, y=67, z=1154} BlockPos{x=-2026, y=65, z=1154}
+[18Dec2024 20:59:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Enchanter]
+[18Dec2024 21:00:45.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [A Cut Above the Rest]
+[18Dec2024 21:01:12.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 21:01:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 21:01:12.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[18Dec2024 21:02:09.443] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7601750e
+[18Dec2024 21:02:09.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:48531] logged in with entity id 208454 at (-2047.9654135630394, 68.0, 1150.8699077568856)
+[18Dec2024 21:02:09.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 21:02:09.791] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 21:02:09.791] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 21:02:46.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2043, y=68, z=1154} BlockPos{x=-2043, y=66, z=1154}
+[18Dec2024 21:02:48.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2048, y=68, z=1154} BlockPos{x=-2050, y=66, z=1154}
+[18Dec2024 21:04:35.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[18Dec2024 21:04:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[18Dec2024 21:04:35.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[18Dec2024 21:04:56.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[18Dec2024 21:04:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[18Dec2024 21:04:56.736] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[18Dec2024 21:07:04.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2046, y=64, z=1067} BlockPos{x=-2047, y=62, z=1067}
+[18Dec2024 21:07:04.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2046, y=64, z=1067} BlockPos{x=-2047, y=62, z=1067}
+[18Dec2024 21:07:06.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2034, y=64, z=1067} BlockPos{x=-2035, y=62, z=1067}
+[18Dec2024 21:07:06.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2034, y=64, z=1067} BlockPos{x=-2035, y=62, z=1067}
+[18Dec2024 21:07:15.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2029, y=64, z=1079} BlockPos{x=-2030, y=62, z=1077}

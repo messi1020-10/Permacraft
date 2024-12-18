@@ -3499,6 +3499,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 20:56:24 +0000",
       "minecraft:skeleton": "2024-12-16 18:28:48 +0000",
       "minecraft:spider": "2024-12-16 19:15:42 +0000",
       "minecraft:creeper": "2024-12-16 20:21:19 +0000",
@@ -3513,6 +3514,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 20:59:44 +0000"
     },
     "done": true
   },
@@ -3549,6 +3556,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-18 20:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 20:56:24 +0000"
     },
     "done": true
   },
