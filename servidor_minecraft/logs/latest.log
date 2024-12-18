@@ -433,3 +433,5 @@ Things may not work well.
 [18Dec2024 03:57:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Ssauromm
 [18Dec2024 03:59:34.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9971, l='ServerLevel[Permatrago]', x=-1968.48, y=65.94, z=1053.53] died, message: 'Villager was slain by Zombie Clown'
 [18Dec2024 04:00:25.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was blown up by Creeper
+[18Dec2024 04:08:16.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10049, l='ServerLevel[Permatrago]', x=-1965.09, y=66.00, z=1087.10] died, message: 'Villager was slain by Swarmer'
+[18Dec2024 04:08:28.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11758, l='ServerLevel[Permatrago]', x=-1920.67, y=72.00, z=1118.30] died, message: 'Villager was slain by Zombie'
