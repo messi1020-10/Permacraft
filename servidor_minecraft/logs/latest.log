@@ -428,3 +428,4 @@ Things may not work well.
 [18Dec2024 03:30:13.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
 [18Dec2024 03:30:13.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
 [18Dec2024 03:41:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Wolf
+[18Dec2024 03:45:47.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4301, l='ServerLevel[Permatrago]', x=-1983.82, y=67.90, z=1084.59] died, message: 'Villager was slain by Ssauromm'

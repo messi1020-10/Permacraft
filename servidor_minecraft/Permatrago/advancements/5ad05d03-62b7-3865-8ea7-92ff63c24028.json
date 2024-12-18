@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-18 03:44:19 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2024-12-15 18:42:11 +0000"
@@ -4169,6 +4175,7 @@
       "cooked_beef": "2024-12-15 17:45:42 +0000",
       "porkchop": "2024-12-15 17:40:30 +0000",
       "apple": "2024-12-15 17:39:47 +0000",
+      "cooked_cod": "2024-12-18 03:41:41 +0000",
       "mutton": "2024-12-17 00:40:42 +0000",
       "bread": "2024-12-15 19:29:11 +0000",
       "rotten_flesh": "2024-12-15 18:51:52 +0000",
