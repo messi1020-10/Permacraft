@@ -2154,6 +2154,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2024-12-18 19:18:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2024-12-16 18:12:02 +0000"
