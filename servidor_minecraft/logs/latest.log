@@ -1359,3 +1359,19 @@
 [18Dec2024 20:33:58.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
 [18Dec2024 20:33:58.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
 [18Dec2024 20:33:58.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[18Dec2024 20:43:54.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1135} BlockPos{x=-1988, y=68, z=1134}
+[18Dec2024 20:43:54.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1135} BlockPos{x=-1988, y=68, z=1134}
+[18Dec2024 20:44:03.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:03.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1992, y=69, z=1121} BlockPos{x=-1991, y=69, z=1120}
+[18Dec2024 20:44:37.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1989, y=68, z=1126} BlockPos{x=-1989, y=68, z=1127}
+[18Dec2024 20:44:37.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1989, y=68, z=1126} BlockPos{x=-1989, y=68, z=1127}
+[18Dec2024 20:44:37.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1989, y=68, z=1126} BlockPos{x=-1989, y=68, z=1127}
+[18Dec2024 20:44:37.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1989, y=68, z=1126} BlockPos{x=-1989, y=68, z=1127}
+[18Dec2024 20:44:38.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1127} BlockPos{x=-1989, y=68, z=1128}
+[18Dec2024 20:44:38.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1988, y=68, z=1127} BlockPos{x=-1989, y=68, z=1128}

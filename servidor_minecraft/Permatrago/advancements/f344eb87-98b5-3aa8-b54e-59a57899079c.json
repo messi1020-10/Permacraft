@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-18 20:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 20:17:35 +0000"
@@ -224,6 +230,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 20:44:24 +0000"
     },
     "done": true
   },
@@ -893,6 +905,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2024-12-18 20:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-16 19:36:20 +0000"
@@ -1040,6 +1058,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-18 20:43:09 +0000"
     },
     "done": true
   },
@@ -2483,6 +2507,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2024-12-18 20:44:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
@@ -2759,6 +2789,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2024-12-18 20:36:54 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2024-12-16 19:14:04 +0000"
@@ -2816,6 +2852,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-16 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-18 20:43:07 +0000"
     },
     "done": true
   },
@@ -3780,6 +3822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 20:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-16 18:05:33 +0000"
@@ -3819,6 +3867,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 20:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 20:44:24 +0000"
     },
     "done": true
   },
@@ -4612,6 +4666,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 20:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-16 18:01:39 +0000"
@@ -4693,6 +4753,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-18 20:43:09 +0000"
     },
     "done": true
   },
@@ -5165,6 +5231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-18 20:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-16 18:05:08 +0000"
@@ -5348,6 +5420,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-17 00:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-18 20:44:04 +0000"
     },
     "done": true
   },
