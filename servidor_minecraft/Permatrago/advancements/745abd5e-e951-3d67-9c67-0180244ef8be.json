@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2024-12-18 19:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -422,6 +428,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-16 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-18 19:35:33 +0000"
     },
     "done": true
   },
@@ -875,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-18 19:35:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
@@ -1311,6 +1329,12 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_heart": "2024-12-14 23:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 19:35:29 +0000"
     },
     "done": true
   },
@@ -2073,6 +2097,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-17 00:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 19:35:29 +0000"
     },
     "done": true
   },
@@ -3503,6 +3533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 19:35:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-14 20:40:53 +0000"
@@ -3554,6 +3590,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-14 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 19:35:29 +0000"
     },
     "done": true
   },
@@ -5264,6 +5306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-18 19:35:33 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/castle_block_purple_brick": {
     "criteria": {
       "has_orchid": "2024-12-16 21:11:02 +0000"
@@ -5387,6 +5435,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 19:25:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/coffin_red": {
+    "criteria": {
+      "has_wool": "2024-12-18 19:35:33 +0000"
     },
     "done": true
   },

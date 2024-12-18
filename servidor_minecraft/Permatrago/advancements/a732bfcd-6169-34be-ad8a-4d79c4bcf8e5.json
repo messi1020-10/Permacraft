@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-14 21:10:42 +0000"
@@ -1185,6 +1191,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
@@ -2797,6 +2809,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2024-12-14 23:59:47 +0000"
@@ -2818,6 +2836,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-14 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
@@ -3126,6 +3150,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2024-12-14 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
@@ -3779,6 +3809,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-15 18:34:02 +0000"
@@ -3899,6 +3935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 19:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-14 20:11:54 +0000"
@@ -3968,6 +4010,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
@@ -4472,6 +4520,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 19:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 23:40:13 +0000"
@@ -4725,6 +4779,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-14 19:47:51 +0000"
@@ -4866,6 +4926,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-15 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 19:26:52 +0000"
     },
     "done": true
   },
@@ -5305,9 +5371,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2024-12-14 20:07:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
@@ -5509,6 +5587,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-14 19:38:47 +0000"
@@ -5563,6 +5647,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
       "has_cloth": "2024-12-16 20:12:12 +0000"
@@ -5590,6 +5680,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-18 19:35:31 +0000"
     },
     "done": true
   },
