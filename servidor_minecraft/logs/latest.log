@@ -1421,3 +1421,14 @@
 [18Dec2024 21:23:48.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2035, y=62, z=1027} BlockPos{x=-2036, y=59, z=1027}
 [18Dec2024 21:27:14.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1984, y=64, z=1026} BlockPos{x=-1984, y=62, z=1025}
 [18Dec2024 21:35:52.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2008, y=64, z=1037} BlockPos{x=-2008, y=62, z=1038}
+[18Dec2024 21:42:24.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1973, y=67, z=1059} BlockPos{x=-1972, y=65, z=1059}
+[18Dec2024 21:42:24.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1973, y=67, z=1059} BlockPos{x=-1972, y=65, z=1059}
+[18Dec2024 21:42:25.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1973, y=67, z=1061} BlockPos{x=-1973, y=65, z=1061}
+[18Dec2024 21:43:25.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@618ab959
+[18Dec2024 21:43:25.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:52389] logged in with entity id 220776 at (5993.283165231405, 64.0, 168.20479606873627)
+[18Dec2024 21:43:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[18Dec2024 21:43:29.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[18Dec2024 21:43:29.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[18Dec2024 21:45:51.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1973, y=66, z=1074} BlockPos{x=-1973, y=65, z=1076}
+[18Dec2024 21:45:51.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1973, y=66, z=1074} BlockPos{x=-1973, y=65, z=1076}
+[18Dec2024 21:46:05.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1962, y=66, z=1051} BlockPos{x=-1962, y=64, z=1050}
