@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-18 16:03:10 +0000"
     },
     "done": true
   },
@@ -731,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-14 20:47:50 +0000"
@@ -1220,6 +1238,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
     },
     "done": true
   },
@@ -1763,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
@@ -2208,6 +2238,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2024-12-18 16:04:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -2331,6 +2367,12 @@
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2024-12-15 00:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
     },
     "done": true
   },
@@ -2571,6 +2613,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-14 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-18 16:03:10 +0000"
     },
     "done": true
   },
@@ -3137,6 +3185,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
     },
     "done": true
   },
@@ -4123,6 +4177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
@@ -4579,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -4944,6 +5010,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 20:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 15:56:38 +0000"
     },
     "done": true
   },

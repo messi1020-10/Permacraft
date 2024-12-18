@@ -295,3 +295,133 @@
 [18Dec2024 15:59:32.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [18Dec2024 15:59:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [18Dec2024 15:59:32.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:04:22.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Take Aim, Chaps!]
+[18Dec2024 16:04:56.948] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@257b8325
+[18Dec2024 16:04:56.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:40655] logged in with entity id 7706 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:04:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:04:59.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:04:59.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:04:59.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:05:16.348] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23c0ce5f
+[18Dec2024 16:05:16.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:47377] logged in with entity id 8068 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:05:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:05:17.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:05:17.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:05:17.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:05:31.296] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bb14f29
+[18Dec2024 16:05:31.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:37105] logged in with entity id 8214 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:05:31.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:05:31.553] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:05:31.554] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:05:32.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:05:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:05:32.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:05:48.242] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71851265
+[18Dec2024 16:05:48.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:50437] logged in with entity id 8491 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:05:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:05:49.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:05:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:05:49.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:06:02.442] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f9c2dc5
+[18Dec2024 16:06:02.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:48121] logged in with entity id 8746 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:06:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:06:03.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:06:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:06:03.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:06:36.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@761173a1
+[18Dec2024 16:06:36.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:36933] logged in with entity id 9071 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:06:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:06:36.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:06:36.360] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:06:37.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:06:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:06:37.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:00.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69f4f7b5
+[18Dec2024 16:07:00.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:41373] logged in with entity id 9408 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:01.294] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:07:01.295] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:07:01.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:01.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:13.693] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68d22634
+[18Dec2024 16:07:13.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:40341] logged in with entity id 9659 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:15.502] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:07:15.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:07:15.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:15.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:15.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:21.242] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@482b48af
+[18Dec2024 16:07:21.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:42915] logged in with entity id 9952 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:21.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:21.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:21.996] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:31.343] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b33bb24
+[18Dec2024 16:07:31.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:58501] logged in with entity id 10199 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:31.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:31.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:07:31.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:07:32.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:32.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:45.793] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f5f8e23
+[18Dec2024 16:07:45.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:42865] logged in with entity id 10476 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:46.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:46.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:07:52.791] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23a42822
+[18Dec2024 16:07:52.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:57651] logged in with entity id 10713 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:07:52.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:07:53.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:07:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:07:53.648] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:08:00.990] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f62a2ff
+[18Dec2024 16:08:00.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:58867] logged in with entity id 10984 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:08:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:08:01.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:08:01.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:08:01.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:08:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:08:01.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:08:14.542] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@159c8fe6
+[18Dec2024 16:08:14.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:33911] logged in with entity id 11281 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:08:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:08:14.790] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:08:14.791] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:08:15.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:08:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:08:15.367] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:08:48.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7661250e
+[18Dec2024 16:08:49.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:57757] logged in with entity id 11576 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:08:49.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:08:49.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:08:49.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:08:49.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:08:49.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:08:49.849] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:09:07.892] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eb51010
+[18Dec2024 16:09:07.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:35603] logged in with entity id 11776 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:09:07.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:09:09.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:09:09.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:09:09.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:09:15.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/3881, l='ServerLevel[Permatrago]', x=5987.30, y=68.00, z=197.70] died, message: 'Armorer was slain by Husk'
+[18Dec2024 16:09:35.740] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5edbed1b
+[18Dec2024 16:09:35.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:53787] logged in with entity id 12103 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:09:35.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:09:36.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:09:36.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:09:36.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:09:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:09:36.317] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 16:10:15.042] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f8ebef2
+[18Dec2024 16:10:15.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:36713] logged in with entity id 12401 at (1781.6984519477194, 76.0, 404.69999998807907)
+[18Dec2024 16:10:15.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 16:10:15.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 16:10:15.265] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 16:10:15.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[18Dec2024 16:10:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 16:10:15.693] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
