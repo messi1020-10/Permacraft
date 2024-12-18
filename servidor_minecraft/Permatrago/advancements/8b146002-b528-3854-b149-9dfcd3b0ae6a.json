@@ -1422,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-18 03:35:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2024-12-14 20:37:20 +0000"
@@ -1479,6 +1485,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-14 21:30:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-18 03:35:55 +0000"
     },
     "done": true
   },
@@ -3996,6 +4008,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-18 03:35:55 +0000"
     },
     "done": true
   },
