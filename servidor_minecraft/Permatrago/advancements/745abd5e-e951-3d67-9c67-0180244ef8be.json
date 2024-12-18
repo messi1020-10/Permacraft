@@ -1392,6 +1392,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-18 18:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-16 20:03:21 +0000"
@@ -4666,6 +4672,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 17:39:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2024-12-18 18:35:12 +0000"
     },
     "done": true
   },

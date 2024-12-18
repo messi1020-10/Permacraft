@@ -967,3 +967,48 @@
 [18Dec2024 18:32:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [A Seedy Place]
 [18Dec2024 18:33:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tanque?
 [18Dec2024 18:33:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> su madre
+[18Dec2024 18:35:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Blunt-force Trauma]
+[18Dec2024 18:35:27.009] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39fb1ef0
+[18Dec2024 18:35:27.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:46001] logged in with entity id 114388 at (5999.205327368853, 64.0, 154.65191221184878)
+[18Dec2024 18:35:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[18Dec2024 18:35:27.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[18Dec2024 18:35:27.316] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[18Dec2024 18:35:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> oña
+[18Dec2024 18:35:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cmo se hace el coso para agrandar mochilas
+[18Dec2024 18:36:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> fijate en jei
+[18Dec2024 18:36:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> es q no tengo el coso
+[18Dec2024 18:36:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no lo tengo nahual
+[18Dec2024 18:36:37.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> yo tengo uno de hierro
+[18Dec2024 18:36:41.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> osea mejora de hierro
+[18Dec2024 18:36:50.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pero cmo se hace :(((
+[18Dec2024 18:37:05.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> queres? o solo queres saber como se hace?
+[18Dec2024 18:37:16.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> quiero pero lo quiero hacer yo xd
+[18Dec2024 18:37:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> 6 de cuero 1 cofre y 2 tanques
+[18Dec2024 18:37:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> gracias
+[18Dec2024 18:38:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Spooky Scary Army]
+[18Dec2024 18:38:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> se viene gente
+[18Dec2024 18:38:36.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> subimo lvl
+[18Dec2024 18:39:04.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 4'/116458, l='ServerLevel[Permatrago]', x=-1471.59, y=62.51, z=481.17] died: Alpha Werewolf Level 4 was slain by patitofino123
+[18Dec2024 18:39:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ez
+[18Dec2024 18:39:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> perate necesito carne xd
+[18Dec2024 18:40:01.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 moved too quickly! 7.810530403849157,-2.33901589062512,-6.205388029405697
+[18Dec2024 18:40:05.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 was kicked for floating too long!
+[18Dec2024 18:40:05.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Flying is not enabled on this server
+[18Dec2024 18:40:05.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[18Dec2024 18:40:05.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[18Dec2024 18:40:07.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 2'/116927, l='ServerLevel[Permatrago]', x=-1469.04, y=63.00, z=417.30] died: Alpha Werewolf Level 2 was slain by patitofino123
+[18Dec2024 18:40:13.004] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9841053
+[18Dec2024 18:40:13.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:58175] logged in with entity id 118080 at (868.1227678589362, 71.55098572558057, 127.7889412338232)
+[18Dec2024 18:40:13.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[18Dec2024 18:40:14.558] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[18Dec2024 18:40:14.559] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[18Dec2024 18:41:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Ice Bucket Challenge]
+[18Dec2024 18:43:16.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> jere
+[18Dec2024 18:43:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> veni
+[18Dec2024 18:43:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[18Dec2024 18:43:20.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> voy
+[18Dec2024 18:43:23.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/118118, l='ServerLevel[Permatrago]', x=858.40, y=69.94, z=205.69] died, message: 'Farmer was slain by Barrel Zombie'
+[18Dec2024 18:43:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[18Dec2024 18:43:37.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> dimelo
+[18Dec2024 18:43:41.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> fijate si podes comerlo
+[18Dec2024 18:43:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Blunt-force Trauma]

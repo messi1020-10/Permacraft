@@ -1428,6 +1428,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 18:32:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 19:48:30 +0000"
@@ -1617,6 +1623,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2024-12-14 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 18:32:08 +0000"
     },
     "done": true
   },
@@ -1876,6 +1888,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 18:32:08 +0000"
     },
     "done": true
   },
@@ -4178,6 +4196,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-18 18:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-14 21:10:42 +0000"
@@ -5010,7 +5034,9 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2024-12-16 20:06:15 +0000",
+      "tomato": "2024-12-18 18:35:53 +0000",
       "rice": "2024-12-16 20:15:53 +0000",
+      "beetroot": "2024-12-18 18:32:12 +0000",
       "potato": "2024-12-18 15:54:07 +0000"
     },
     "done": false
