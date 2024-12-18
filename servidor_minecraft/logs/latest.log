@@ -1443,3 +1443,6 @@
 [18Dec2024 23:18:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Nightmare Stalker
 [18Dec2024 23:18:02.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_18.12.2024-23.18.02.dat
 [18Dec2024 23:18:02.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5960 Y: 63.41999998688698 Z: 133
+[18Dec2024 23:25:34.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5228, y=56, z=-187} BlockPos{x=5228, y=54, z=-187}
+[18Dec2024 23:25:34.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5228, y=56, z=-187} BlockPos{x=5228, y=54, z=-187}
+[18Dec2024 23:28:36.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Exposure]

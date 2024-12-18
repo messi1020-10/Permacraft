@@ -5001,6 +5001,12 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2024-12-18 23:21:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-12-16 17:24:47 +0000"
@@ -5848,6 +5854,12 @@
   "farmersdelight:recipes/farmersdelight/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-14 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2024-12-18 23:21:18 +0000"
     },
     "done": true
   },
