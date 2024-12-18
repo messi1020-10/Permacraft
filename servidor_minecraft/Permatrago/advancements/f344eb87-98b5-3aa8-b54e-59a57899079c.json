@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-18 18:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-16 19:49:56 +0000"
@@ -2524,6 +2530,7 @@
       "bread": "2024-12-16 18:53:31 +0000",
       "golden_apple": "2024-12-16 20:29:03 +0000",
       "melon_slice": "2024-12-16 18:11:48 +0000",
+      "cooked_chicken": "2024-12-18 18:26:12 +0000",
       "cod": "2024-12-16 22:54:12 +0000",
       "cooked_salmon": "2024-12-16 22:26:35 +0000"
     },
@@ -3276,6 +3283,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-18 18:26:07 +0000"
     },
     "done": true
   },
