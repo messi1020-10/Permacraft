@@ -1058,3 +1058,52 @@
 [18Dec2024 18:53:30.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
 [18Dec2024 18:53:30.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/121380, l='ServerLevel[Permatrago]', x=-71.47, y=66.23, z=1145.49] died, message: 'Leatherworker was slain by DuckZJ'
 [18Dec2024 18:53:44.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/121413, l='ServerLevel[Permatrago]', x=-85.72, y=71.00, z=1116.51] died, message: 'Farmer was slain by DuckZJ'
+[18Dec2024 18:54:18.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> diablo
+[18Dec2024 18:54:43.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/121399, l='ServerLevel[Permatrago]', x=-162.60, y=77.00, z=1156.91] died, message: 'Farmer was slain by DuckZJ'
+[18Dec2024 18:54:45.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> f
+[18Dec2024 18:54:46.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> dxd
+[18Dec2024 18:54:57.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> uff ta dificil craftear el cañon
+[18Dec2024 18:55:50.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/121397, l='ServerLevel[Permatrago]', x=-137.21, y=66.00, z=1120.21] died, message: 'Nitwit was slain by Jeree_whyy'
+[18Dec2024 18:56:10.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 18:56:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 18:56:10.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[18Dec2024 18:56:19.608] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70a61644
+[18Dec2024 18:56:19.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:60685] logged in with entity id 131329 at (-1950.54381413979, 50.0, 1090.0903405959266)
+[18Dec2024 18:56:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 18:56:20.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 18:56:20.154] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 18:56:41.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[18Dec2024 18:56:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[18Dec2024 18:56:41.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[18Dec2024 18:56:47.954] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51f39c3b
+[18Dec2024 18:56:47.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:45701] logged in with entity id 131528 at (-1949.567675572758, 50.25, 1089.8848201769424)
+[18Dec2024 18:56:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[18Dec2024 18:56:48.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[18Dec2024 18:56:48.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[18Dec2024 18:57:30.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Ssauromm
+[18Dec2024 18:57:30.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for patitofino123 with unique ID travelersbackpack.diamond_18.12.2024-18.57.30.dat
+[18Dec2024 18:57:30.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1950 Y: 50.0 Z: 1091
+[18Dec2024 19:01:42.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nose
+[18Dec2024 19:02:00.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no creo
+[18Dec2024 19:02:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> hay dios duck
+[18Dec2024 19:02:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me re asustaste
+[18Dec2024 19:02:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> y esa cosa
+[18Dec2024 19:02:32.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was blown up by Creeper
+[18Dec2024 19:02:32.201] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jeree_whyy with unique ID travelersbackpack.standard_18.12.2024-19.02.32.dat
+[18Dec2024 19:02:32.201] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -184 Y: 78.0 Z: 1089
+[18Dec2024 19:02:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> qqq
+[18Dec2024 19:02:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> una guadaña
+[18Dec2024 19:02:38.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q es eso en el chat
+[18Dec2024 19:02:40.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> aea
+[18Dec2024 19:02:40.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49ef36d5
+[18Dec2024 19:02:46.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/136105, l='ServerLevel[Permatrago]', x=-129.30, y=67.00, z=1122.40] died, message: 'Villager was slain by DuckZJ'
+[18Dec2024 19:02:46.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q vos nms te sale Ssauromm
+[18Dec2024 19:02:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ...
+[18Dec2024 19:02:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
+[18Dec2024 19:03:01.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ya se que e
+[18Dec2024 19:03:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> un puto creeper electrico
+[18Dec2024 19:03:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> de q es duck la guadaña
+[18Dec2024 19:03:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> es el lobo ese
+[18Dec2024 19:03:10.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que es invisible
+[18Dec2024 19:03:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> guadaña de pesadilla
+[18Dec2024 19:03:32.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a?

@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2024-12-18 18:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 20:45:20 +0000"
@@ -829,6 +835,7 @@
       "minecraft:husk": "2024-12-15 20:44:37 +0000",
       "minecraft:silverfish": "2024-12-16 23:57:54 +0000",
       "minecraft:enderman": "2024-12-18 18:48:38 +0000",
+      "minecraft:endermite": "2024-12-18 18:54:25 +0000",
       "minecraft:zombie": "2024-12-15 20:14:14 +0000"
     },
     "done": false
@@ -1226,6 +1233,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_spear": {
     "criteria": {
       "has_cobblestone": "2024-12-15 20:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-18 18:56:53 +0000"
     },
     "done": true
   },

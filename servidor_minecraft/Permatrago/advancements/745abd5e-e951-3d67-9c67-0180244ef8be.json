@@ -1338,6 +1338,12 @@
     },
     "done": true
   },
+  "siegemachines:siegemachines": {
+    "criteria": {
+      "requirement": "2024-12-18 18:52:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2024-12-15 15:26:10 +0000"
