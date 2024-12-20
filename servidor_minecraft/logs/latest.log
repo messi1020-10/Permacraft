@@ -204,3 +204,6 @@
 [20Dec2024 01:57:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> perdon por insistir
 [20Dec2024 01:57:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en unos dias
 [20Dec2024 01:57:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> -..
+[20Dec2024 02:02:19.150] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[20Dec2024 02:03:24.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2008, y=66, z=1078} BlockPos{x=-2008, y=66, z=1079}
+[20Dec2024 02:09:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has completed the challenge [Through the Heart]
