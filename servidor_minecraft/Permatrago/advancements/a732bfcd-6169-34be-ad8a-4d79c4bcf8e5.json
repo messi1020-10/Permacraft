@@ -995,6 +995,12 @@
     },
     "done": true
   },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2024-12-20 21:25:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-15 20:03:16 +0000"
@@ -6025,6 +6031,12 @@
     },
     "done": true
   },
+  "exposure:adventure/take_selfie": {
+    "criteria": {
+      "take_selfie": "2024-12-20 21:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
@@ -6226,6 +6238,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-18 18:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-20 21:26:55 +0000"
     },
     "done": true
   },
