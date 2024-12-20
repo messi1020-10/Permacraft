@@ -2029,6 +2029,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2024-12-20 21:43:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 17:28:40 +0000"
@@ -4316,6 +4322,7 @@
       "golden_apple": "2024-12-20 20:52:44 +0000",
       "rotten_flesh": "2024-12-15 19:58:43 +0000",
       "cookie": "2024-12-20 20:50:28 +0000",
+      "salmon": "2024-12-20 21:40:56 +0000",
       "cod": "2024-12-20 21:08:28 +0000",
       "cooked_salmon": "2024-12-20 16:44:27 +0000",
       "carrot": "2024-12-20 17:25:27 +0000"
