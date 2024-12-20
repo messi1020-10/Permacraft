@@ -5373,6 +5373,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "flower": "2024-12-20 02:09:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-15 19:19:37 +0000"

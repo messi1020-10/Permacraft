@@ -207,3 +207,8 @@
 [20Dec2024 02:02:19.150] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [20Dec2024 02:03:24.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2008, y=66, z=1078} BlockPos{x=-2008, y=66, z=1079}
 [20Dec2024 02:09:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has completed the challenge [Through the Heart]
+[20Dec2024 02:10:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pobre vampiro
+[20Dec2024 02:18:20.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
+[20Dec2024 02:18:21.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
+[20Dec2024 02:18:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
+[20Dec2024 02:20:01.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/33670, l='ServerLevel[Permatrago]', x=806.63, y=62.58, z=211.32] died, message: 'Villager was slain by DuckZJ'
