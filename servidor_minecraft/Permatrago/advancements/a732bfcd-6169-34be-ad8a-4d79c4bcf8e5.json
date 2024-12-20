@@ -3855,6 +3855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-12-20 21:06:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -6490,6 +6496,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-16 18:24:52 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:angler_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-20 21:06:42 +0000"
     },
     "done": true
   },
