@@ -2662,3 +2662,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 19:58:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] scoot se mete en un rato
 [20Dec2024 19:58:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
 [20Dec2024 19:58:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dale algunos cosas cuando se meta
+[20Dec2024 20:05:59.805] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@123debe4
+[20Dec2024 20:05:59.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Scoot2023[/127.178.125.160:40999] logged in with entity id 123395 at (-7.5, 66.0, 25.5)
+[20Dec2024 20:05:59.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
+[20Dec2024 20:05:59.814] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] Scoot2023 first spawned. Set First Dragon to 1
+[20Dec2024 20:06:02.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
+[20Dec2024 20:06:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
+[20Dec2024 20:06:02.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[20Dec2024 20:06:10.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@409a9cf4
+[20Dec2024 20:06:10.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Scoot2023[/127.178.125.160:43961] logged in with entity id 123524 at (-7.5, 66.0, 25.5)
+[20Dec2024 20:06:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
+[20Dec2024 20:06:10.738] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Scoot2023 (18)
+[20Dec2024 20:06:10.739] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Scoot2023
+[20Dec2024 20:06:11.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
+[20Dec2024 20:06:11.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
+[20Dec2024 20:06:11.310] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[20Dec2024 20:08:55.909] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@223575ef
+[20Dec2024 20:08:55.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Scoot2023[/127.178.125.160:59411] logged in with entity id 123958 at (-7.5, 66.0, 25.5)
+[20Dec2024 20:08:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
+[20Dec2024 20:08:57.505] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Scoot2023 (18)
+[20Dec2024 20:08:57.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Scoot2023
+[20Dec2024 20:08:58.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
+[20Dec2024 20:08:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
+[20Dec2024 20:08:58.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
