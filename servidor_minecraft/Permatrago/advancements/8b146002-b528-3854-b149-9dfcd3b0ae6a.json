@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-20 18:29:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -3816,6 +3822,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 18:29:29 +0000"
     },
     "done": true
   },
