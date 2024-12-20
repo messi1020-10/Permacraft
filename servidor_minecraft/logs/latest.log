@@ -1,278 +1,260 @@
-[20Dec2024 00:00:51.004] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40264a63
-[20Dec2024 00:00:51.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:51507] logged in with entity id 60 at (-1980.4651627256203, 68.0, 1085.580606861675)
-[20Dec2024 00:00:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
-[20Dec2024 00:00:54.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
-[20Dec2024 00:00:54.074] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
-[20Dec2024 00:01:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
-[20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
-[20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
-[20Dec2024 00:17:20.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
-[20Dec2024 00:22:00.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@796d059a
-[20Dec2024 00:22:00.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:55355] logged in with entity id 2406 at (806.9499999880791, 72.0, 174.15486564970539)
-[20Dec2024 00:22:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
-[20Dec2024 00:22:30.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
-[20Dec2024 00:22:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
-[20Dec2024 00:22:30.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
-[20Dec2024 00:23:09.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@392a4890
-[20Dec2024 00:23:09.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:46667] logged in with entity id 2594 at (806.9499999880791, 72.0, 174.15486564970539)
-[20Dec2024 00:23:09.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
-[20Dec2024 00:23:10.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
-[20Dec2024 00:23:10.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
-[20Dec2024 00:23:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xuxa
-[20Dec2024 00:25:14.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
-[20Dec2024 00:25:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
-[20Dec2024 00:25:14.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
-[20Dec2024 01:06:17.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ef905a
-[20Dec2024 01:06:17.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:41945] logged in with entity id 3021 at (6000.998458506336, 64.0, 156.80660116264968)
-[20Dec2024 01:06:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
-[20Dec2024 01:06:20.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
-[20Dec2024 01:06:20.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
-[20Dec2024 01:13:20.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3044, l='ServerLevel[Permatrago]', x=5996.48, y=63.00, z=180.81] died, message: 'Villager bled to death from injuries caused by Jeree_whyy'
-[20Dec2024 01:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Cobweb Entanglement]
-[20Dec2024 01:20:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Cave Spider
-[20Dec2024 01:26:45.912] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4960, y=-2, z=690}
-[20Dec2024 01:29:35.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c2ca4e1
-[20Dec2024 01:29:35.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:47895] logged in with entity id 12760 at (6000.451029908475, 64.0, 154.1409567050763)
-[20Dec2024 01:29:35.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
-[20Dec2024 01:29:38.387] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
-[20Dec2024 01:29:38.389] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
-[20Dec2024 01:29:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> duck
-[20Dec2024 01:29:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tas en base?
-[20Dec2024 01:29:48.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> boee
-[20Dec2024 01:29:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
-[20Dec2024 01:29:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xq me mori aca cerca xd
-[20Dec2024 01:30:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> como te teletransportas de una?
-[20Dec2024 01:30:05.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nos
-[20Dec2024 01:30:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nose
-[20Dec2024 01:30:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pongo tpa y se me tpa directamente
-[20Dec2024 01:30:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> u
-[20Dec2024 01:30:47.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tene carne?
-[20Dec2024 01:30:51.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
-[20Dec2024 01:31:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo
-[20Dec2024 01:31:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo corazons
-[20Dec2024 01:31:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> corazones
-[20Dec2024 01:31:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aca
-[20Dec2024 01:31:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> toma
-[20Dec2024 01:31:50.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> gracia
-[20Dec2024 01:33:02.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Cave Spider
-[20Dec2024 01:33:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya xd
-[20Dec2024 01:33:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tas bien? xd
-[20Dec2024 01:33:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
-[20Dec2024 01:33:35.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
-[20Dec2024 01:33:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mira
-[20Dec2024 01:33:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> woao
-[20Dec2024 01:33:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pongo coso y lo rompes
-[20Dec2024 01:34:01.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah no tengo xp xd
-[20Dec2024 01:34:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
-[20Dec2024 01:35:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> duck
-[20Dec2024 01:35:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ni idea por donde es
-[20Dec2024 01:35:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nda nda
-[20Dec2024 01:35:21.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ehm
-[20Dec2024 01:35:30.156] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66844ea
-[20Dec2024 01:35:30.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:48843] logged in with entity id 14443 at (-2029.718562993344, 68.0, 1103.6840144478358)
-[20Dec2024 01:35:30.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
-[20Dec2024 01:35:33.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
-[20Dec2024 01:35:33.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
-[20Dec2024 01:35:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> hi lil bros
-[20Dec2024 01:36:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si ves bambu es la base
-[20Dec2024 01:37:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> encontre
-[20Dec2024 01:37:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que andan haciendo
-[20Dec2024 01:37:51.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> fumano marihuana
-[20Dec2024 01:37:57.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> fumando*
-[20Dec2024 01:37:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> muy bien
-[20Dec2024 01:38:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q le pinto
-[20Dec2024 01:38:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> al golem este
-[20Dec2024 01:38:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
-[20Dec2024 01:38:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> 1 de vida te dejo
-[20Dec2024 01:38:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me empezo a atacar de la nda xd
-[20Dec2024 01:39:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque sos hombre lobo
-[20Dec2024 01:39:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aah xd
-[20Dec2024 01:39:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> antes no me atacaban
-[20Dec2024 01:39:22.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> voy a hacer ritualcito
-[20Dec2024 01:39:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que lvl de lobo eres Jeree_whyy
-[20Dec2024 01:39:47.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 3 yendo a 4
-[20Dec2024 01:39:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> nice
-[20Dec2024 01:40:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> jeje
-[20Dec2024 01:40:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> unga unga
-[20Dec2024 01:40:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> UNGA UNGAA
-[20Dec2024 01:40:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya
-[20Dec2024 01:41:02.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xq sacaste los huesos y las cosas xd
-[20Dec2024 01:41:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no pense que se rompia instanteanamente
-[20Dec2024 01:41:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xddd
-[20Dec2024 01:41:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> a la madre
-[20Dec2024 01:42:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q es esto
-[20Dec2024 01:42:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pepitas
-[20Dec2024 01:42:18.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
-[20Dec2024 01:42:21.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> god
-[20Dec2024 01:42:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xdd
-[20Dec2024 01:42:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> podes hacer un lingote con 9
-[20Dec2024 01:42:28.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pepitas de marijuana
-[20Dec2024 01:42:32.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y concinarlo
-[20Dec2024 01:42:35.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> quedatelo xd
-[20Dec2024 01:43:08.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> con eso te podes hacer armas
-[20Dec2024 01:43:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> god
-[20Dec2024 01:43:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> che
-[20Dec2024 01:43:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ustedes
-[20Dec2024 01:43:30.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no lo usaria igual xd
-[20Dec2024 01:43:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tienen dark metal?
-[20Dec2024 01:43:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
-[20Dec2024 01:43:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ni idea de q es eso
-[20Dec2024 01:44:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
-[20Dec2024 01:44:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> jere
-[20Dec2024 01:44:15.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
-[20Dec2024 01:44:18.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> viste la guadaña que tengo?
-[20Dec2024 01:44:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> si
-[20Dec2024 01:44:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> con eso te podes hacer una
-[20Dec2024 01:44:31.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> OOOO
-[20Dec2024 01:44:36.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> god
-[20Dec2024 01:44:41.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> al pegar te da 1 segundo de regeneracion
-[20Dec2024 01:44:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> uff rotisimo
-[20Dec2024 01:44:53.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
-[20Dec2024 01:44:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> te cura medio cora
-[20Dec2024 01:45:08.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> es cada vez q pegas man
-[20Dec2024 01:45:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
-[20Dec2024 01:45:36.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q pedis q te de 9 bloques de netherite xd
-[20Dec2024 01:47:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [The Cutest Predator]
-[20Dec2024 01:47:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
-[20Dec2024 01:48:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si ves un blaze negro matalo
-[20Dec2024 01:48:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya lo mate
-[20Dec2024 01:48:24.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque las varas que da sirven para hacer cosas
-[20Dec2024 01:48:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tengo una vara
-[20Dec2024 01:48:37.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> yo todo lo q es negro lo mato
-[20Dec2024 01:48:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> fr
-[20Dec2024 01:48:42.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> boe
-[20Dec2024 01:48:55.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me toco una hunter axe
-[20Dec2024 01:49:08.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 11 daño
-[20Dec2024 01:49:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y a los vampiros les hace mierda
-[20Dec2024 01:49:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bro
-[20Dec2024 01:49:31.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> e consegui..
-[20Dec2024 01:49:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> un ajo...
-[20Dec2024 01:49:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 2..
-[20Dec2024 01:50:02.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> todavia lo necesitas?
-[20Dec2024 01:50:10.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hace un monton consegui
-[20Dec2024 01:50:12.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xdd
-[20Dec2024 01:50:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si conseguis una pluma trae
-[20Dec2024 01:50:50.011] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ce0681d
-[20Dec2024 01:50:50.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZwanderFemboy[/127.30.92.233:35941] logged in with entity id 22666 at (-6.5, 67.0, 41.5)
-[20Dec2024 01:50:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy joined the game
-[20Dec2024 01:50:50.020] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] ZwanderFemboy first spawned. Set First Dragon to 1
-[20Dec2024 01:50:51.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZwanderFemboy (18)
-[20Dec2024 01:50:51.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZwanderFemboy
-[20Dec2024 01:50:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> epa
-[20Dec2024 01:51:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> como q femboy
-[20Dec2024 01:51:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q rico
-[20Dec2024 01:51:10.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> mentira xd
-[20Dec2024 01:51:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZwanderFemboy> q
-[20Dec2024 01:51:18.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> so
-[20Dec2024 01:51:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy has made the advancement [Crops of the Wild]
-[20Dec2024 01:51:36.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> quien verga es zwander
-[20Dec2024 01:51:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> uno de discord
-[20Dec2024 01:51:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> neko
-[20Dec2024 01:51:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah ya
-[20Dec2024 01:52:12.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZwanderFemboy> ahorita vengo
-[20Dec2024 01:52:13.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZwanderFemboy lost connection: Disconnected
-[20Dec2024 01:52:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy left the game
-[20Dec2024 01:52:13.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZwanderFemboy
-[20Dec2024 01:52:16.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duro
-[20Dec2024 01:52:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> casi se quema mi ajolote xd
-[20Dec2024 01:53:40.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1079} BlockPos{x=-2003, y=64, z=1078}
-[20Dec2024 01:53:40.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2003, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
-[20Dec2024 01:53:40.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
-[20Dec2024 01:53:40.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
-[20Dec2024 01:53:40.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
-[20Dec2024 01:53:40.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
-[20Dec2024 01:53:40.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=63, z=1074} BlockPos{x=-2003, y=64, z=1075}
-[20Dec2024 01:53:44.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:44.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
-[20Dec2024 01:53:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cuando necesito un calamar no hay
-[20Dec2024 01:55:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me falta la tinta
-[20Dec2024 01:56:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bno gente
-[20Dec2024 01:57:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> en un rato vuelvo
-[20Dec2024 01:57:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ok
-[20Dec2024 01:57:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me abuli
-[20Dec2024 01:57:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
-[20Dec2024 01:57:09.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
-[20Dec2024 01:57:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
-[20Dec2024 01:57:09.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
-[20Dec2024 01:57:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> oye DuckZJ
-[20Dec2024 01:57:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cuando el nether
-[20Dec2024 01:57:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> perdon por insistir
-[20Dec2024 01:57:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en unos dias
-[20Dec2024 01:57:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> -..
-[20Dec2024 02:02:19.150] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
-[20Dec2024 02:03:24.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2008, y=66, z=1078} BlockPos{x=-2008, y=66, z=1079}
-[20Dec2024 02:09:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has completed the challenge [Through the Heart]
-[20Dec2024 02:10:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pobre vampiro
-[20Dec2024 02:18:20.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
-[20Dec2024 02:18:21.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
-[20Dec2024 02:18:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
-[20Dec2024 02:20:01.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/33670, l='ServerLevel[Permatrago]', x=806.63, y=62.58, z=211.32] died, message: 'Villager was slain by DuckZJ'
-[20Dec2024 02:22:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Spectator Mode]
-[20Dec2024 02:23:26.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Survival Mode]
-[20Dec2024 02:23:58.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Spectator Mode]
-[20Dec2024 02:24:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Survival Mode]
-[20Dec2024 02:25:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Applied effect effect.vampirism.bad_omen_vampire to DuckZJ]
-[20Dec2024 02:26:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> da
-[20Dec2024 02:26:48.324] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@568a78b9
-[20Dec2024 02:26:48.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:38369] logged in with entity id 42522 at (-1961.5244652558065, 50.0, 1088.3940602173438)
-[20Dec2024 02:26:48.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
-[20Dec2024 02:26:50.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
-[20Dec2024 02:26:50.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
-[20Dec2024 02:35:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Spooky Scary Army]
-[20Dec2024 02:35:55.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Boneyard]
-[20Dec2024 02:36:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> ZZZZ
-[20Dec2024 02:44:03.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2014, y=64, z=1133} BlockPos{x=-2015, y=63, z=1133}
-[20Dec2024 02:45:35.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no se como salio un pigman de la nada
-[20Dec2024 02:45:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cheto
-[20Dec2024 02:46:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> va a ser horrible el nether
-[20Dec2024 02:46:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> por¡?
-[20Dec2024 02:46:13.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque tenia armadura como los esqueletos y zombis
-[20Dec2024 02:46:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> aeaea
-[20Dec2024 02:46:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> le pagas a uno y cagas
-[20Dec2024 02:46:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cagaste
-[20Dec2024 02:46:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> salis y volves a entrar
-[20Dec2024 02:46:26.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ez
-[20Dec2024 02:46:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y si estas lejos
-[20Dec2024 02:46:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q
-[20Dec2024 02:46:45.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> del server digo
-[20Dec2024 02:46:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> asi te dejan
-[20Dec2024 02:46:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tipica de cagon
-[20Dec2024 02:46:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> see
-[20Dec2024 02:47:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ni yo hago eso
-[20Dec2024 02:47:03.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> y bueno
-[20Dec2024 02:47:06.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cada quien
-[20Dec2024 02:47:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> con loq hace
-[20Dec2024 02:47:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tenes que ser un burro tambien para pegarle a un pinman
-[20Dec2024 02:47:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> jaja
-[20Dec2024 02:47:25.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tambien
-[20Dec2024 02:47:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pero lo digo si lo haces por accidente
-[20Dec2024 02:47:37.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ahi no se
-[20Dec2024 02:47:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> siento que jere lo pasaria
-[20Dec2024 02:47:51.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
-[20Dec2024 03:21:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> ZZZZZZZZZ
-[20Dec2024 03:36:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> zz
-[20Dec2024 03:36:12.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> zzz
-[20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
-[20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
-[20Dec2024 04:01:45.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
-[20Dec2024 04:03:24.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
-[20Dec2024 04:03:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
-[20Dec2024 04:03:24.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
-[20Dec2024 04:15:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Dec2024 04:15:28.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Dec2024 04:15:28.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Dec2024 04:15:28.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Server closed
-[20Dec2024 04:15:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
-[20Dec2024 04:15:28.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Dec2024 04:15:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:overworld
-[20Dec2024 04:15:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_end
-[20Dec2024 04:15:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_nether
-[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Permatrago): All chunks are saved
-[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 13:54:44.262] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[20Dec2024 13:54:44.268] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Dec2024 13:54:45.369] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Permacraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[20Dec2024 13:54:45.832] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Permacraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[20Dec2024 13:54:45.834] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Permacraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Dec2024 13:54:45.835] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Permacraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Dec2024 13:54:45.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Permacraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Dec2024 13:54:46.042] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[20Dec2024 13:54:48.054] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Dec2024 13:54:48.495] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[20Dec2024 13:54:48.498] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[20Dec2024 13:54:48.549] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Dec2024 13:54:48.552] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Dec2024 13:54:48.553] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Dec2024 13:54:48.796] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.19.2: 87 options available, 0 override(s) found
+[20Dec2024 13:54:48.798] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[20Dec2024 13:54:48.817] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[20Dec2024 13:54:49.483] [main/WARN] [mixin/]: Error loading class: cn/leolezury/leosillagers/entity/Clownager (java.lang.ClassNotFoundException: cn.leolezury.leosillagers.entity.Clownager)
+[20Dec2024 13:54:49.484] [main/WARN] [mixin/]: @Mixin target cn.leolezury.leosillagers.entity.Clownager was not found difficultraids.mixin.json:compat.ClownagerMixin
+[20Dec2024 13:54:49.485] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/savage_and_ravage/common/entity/monster/Executioner (java.lang.ClassNotFoundException: com.teamabnormals.savage_and_ravage.common.entity.monster.Executioner)
+[20Dec2024 13:54:49.485] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.savage_and_ravage.common.entity.monster.Executioner was not found difficultraids.mixin.json:compat.ExecutionerMixin
+[20Dec2024 13:54:49.486] [main/WARN] [mixin/]: Error loading class: com/yellowbrossproductions/illageandspillage/entities/FreakagerEntity (java.lang.ClassNotFoundException: com.yellowbrossproductions.illageandspillage.entities.FreakagerEntity)
+[20Dec2024 13:54:49.487] [main/WARN] [mixin/]: @Mixin target com.yellowbrossproductions.illageandspillage.entities.FreakagerEntity was not found difficultraids.mixin.json:compat.FreakagerMixin
+[20Dec2024 13:54:49.488] [main/WARN] [mixin/]: Error loading class: tallestegg/guardvillagers/entities/Guard (java.lang.ClassNotFoundException: tallestegg.guardvillagers.entities.Guard)
+[20Dec2024 13:54:49.489] [main/WARN] [mixin/]: @Mixin target tallestegg.guardvillagers.entities.Guard was not found difficultraids.mixin.json:compat.GuardMixin
+[20Dec2024 13:54:49.491] [main/WARN] [mixin/]: Error loading class: baguchan/hunterillager/entity/HunterIllagerEntity (java.lang.ClassNotFoundException: baguchan.hunterillager.entity.HunterIllagerEntity)
+[20Dec2024 13:54:49.491] [main/WARN] [mixin/]: @Mixin target baguchan.hunterillager.entity.HunterIllagerEntity was not found difficultraids.mixin.json:compat.HunterIllagerMixin
+[20Dec2024 13:54:49.493] [main/WARN] [mixin/]: Error loading class: cn/leolezury/leosillagers/entity/LightningCaller (java.lang.ClassNotFoundException: cn.leolezury.leosillagers.entity.LightningCaller)
+[20Dec2024 13:54:49.493] [main/WARN] [mixin/]: @Mixin target cn.leolezury.leosillagers.entity.LightningCaller was not found difficultraids.mixin.json:compat.LightningCallerMixin
+[20Dec2024 13:54:49.495] [main/WARN] [mixin/]: Error loading class: com/yellowbrossproductions/illageandspillage/entities/MagispellerEntity (java.lang.ClassNotFoundException: com.yellowbrossproductions.illageandspillage.entities.MagispellerEntity)
+[20Dec2024 13:54:49.495] [main/WARN] [mixin/]: @Mixin target com.yellowbrossproductions.illageandspillage.entities.MagispellerEntity was not found difficultraids.mixin.json:compat.MagispellerMixin
+[20Dec2024 13:54:49.496] [main/WARN] [mixin/]: Error loading class: com/infamous/dungeons_mobs/entities/illagers/MountaineerEntity (java.lang.ClassNotFoundException: com.infamous.dungeons_mobs.entities.illagers.MountaineerEntity)
+[20Dec2024 13:54:49.497] [main/WARN] [mixin/]: @Mixin target com.infamous.dungeons_mobs.entities.illagers.MountaineerEntity was not found difficultraids.mixin.json:compat.MountaineerMixin
+[20Dec2024 13:54:49.498] [main/WARN] [mixin/]: Error loading class: com/infamous/dungeons_mobs/entities/redstone/RedstoneGolemEntity (java.lang.ClassNotFoundException: com.infamous.dungeons_mobs.entities.redstone.RedstoneGolemEntity)
+[20Dec2024 13:54:49.498] [main/WARN] [mixin/]: @Mixin target com.infamous.dungeons_mobs.entities.redstone.RedstoneGolemEntity was not found difficultraids.mixin.json:compat.RedstoneGolemMixin
+[20Dec2024 13:54:49.499] [main/WARN] [mixin/]: Error loading class: com/infamous/dungeons_mobs/entities/illagers/RoyalGuardEntity (java.lang.ClassNotFoundException: com.infamous.dungeons_mobs.entities.illagers.RoyalGuardEntity)
+[20Dec2024 13:54:49.501] [main/WARN] [mixin/]: @Mixin target com.infamous.dungeons_mobs.entities.illagers.RoyalGuardEntity was not found difficultraids.mixin.json:compat.RoyalGuardMixin
+[20Dec2024 13:54:49.503] [main/WARN] [mixin/]: Error loading class: com/yellowbrossproductions/illageandspillage/entities/SpiritcallerEntity (java.lang.ClassNotFoundException: com.yellowbrossproductions.illageandspillage.entities.SpiritcallerEntity)
+[20Dec2024 13:54:49.503] [main/WARN] [mixin/]: @Mixin target com.yellowbrossproductions.illageandspillage.entities.SpiritcallerEntity was not found difficultraids.mixin.json:compat.SpiritcallerMixin
+[20Dec2024 13:54:49.504] [main/WARN] [mixin/]: Error loading class: cn/leolezury/leosillagers/entity/VindicatorWithShield (java.lang.ClassNotFoundException: cn.leolezury.leosillagers.entity.VindicatorWithShield)
+[20Dec2024 13:54:49.504] [main/WARN] [mixin/]: @Mixin target cn.leolezury.leosillagers.entity.VindicatorWithShield was not found difficultraids.mixin.json:compat.VindicatorWithShieldMixin
+[20Dec2024 13:54:49.597] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[20Dec2024 13:54:50.025] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20Dec2024 13:54:50.861] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.09 s after launch)
+[20Dec2024 13:54:51.090] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Dec2024 13:54:51.091] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Dec2024 13:54:53.995] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3130 milliseconds
+[20Dec2024 13:54:54.453] [main/WARN] [mixin/]: Method overwrite conflict for getMobSpawnType in majruszlibrary-common.mixins.json:MixinMob, previously written by com.izofar.takesapillage.mixin.MobRememberSpawnReasonMixin. Skipping method.
+[20Dec2024 13:54:56.893] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinMobEffectInstance. Skipping method.
+[20Dec2024 13:54:57.498] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.TagsFeature
+[20Dec2024 13:54:57.547] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.FixFeature
+[20Dec2024 13:54:57.552] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.AEC3DFeature
+[20Dec2024 13:54:57.853] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[20Dec2024 13:54:57.993] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.RewardFeature
+[20Dec2024 13:54:58.006] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.ResistancesFeature
+[20Dec2024 13:54:58.008] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.MiscFeature
+[20Dec2024 13:54:58.023] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.MinionFeature
+[20Dec2024 13:54:58.029] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.HealthFeature
+[20Dec2024 13:54:58.033] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.DifficultyFeature
+[20Dec2024 13:54:58.044] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.wither.feature.AttackFeature
+[20Dec2024 13:54:58.059] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.RewardFeature
+[20Dec2024 13:54:58.061] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.ResistancesFeature
+[20Dec2024 13:54:58.063] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.MinionFeature
+[20Dec2024 13:54:58.070] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.HealthFeature
+[20Dec2024 13:54:58.079] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.BaseFeature
+[20Dec2024 13:54:58.095] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.elderguardian.feature.AttackFeature
+[20Dec2024 13:54:58.098] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.RewardFeature
+[20Dec2024 13:54:58.113] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.ResistancesFeature
+[20Dec2024 13:54:58.229] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
+[20Dec2024 13:54:58.235] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.MinionFeature
+[20Dec2024 13:54:58.249] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.LarvaFeature
+[20Dec2024 13:54:58.255] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.HealthFeature
+[20Dec2024 13:54:58.259] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.DifficultyFeature
+[20Dec2024 13:54:58.263] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.CrystalFeature
+[20Dec2024 13:54:58.269] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.progressivebosses.module.dragon.feature.AttackFeature
+[20Dec2024 13:54:58.284] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[20Dec2024 13:54:58.284] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[20Dec2024 13:54:58.382] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[20Dec2024 13:54:58.738] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[20Dec2024 13:54:58.739] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[20Dec2024 13:54:58.740] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[20Dec2024 13:54:58.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Dec2024 13:54:59.308] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[20Dec2024 13:54:59.354] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[20Dec2024 13:54:59.358] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[20Dec2024 13:55:04.398] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Permacraft/servidor_minecraft/config/siege-machines-specs.toml is not correct. Correcting
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.mortar.projectileSpeed was corrected from 2.5 to its default, 2.5. 
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.mortar.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.mortar.damageMultiplier was corrected from 1.5 to its default, 1.5. 
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.culverin.projectileSpeed was corrected from 3.5 to its default, 3.5. 
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.culverin.inaccuracy was corrected from 0.03 to its default, 0.03. 
+[20Dec2024 13:55:04.399] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.culverin.damageMultiplier was corrected from 3.0 to its default, 3.0. 
+[20Dec2024 13:55:04.400] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.trebuchet.projectileSpeed was corrected from 2.8 to its default, 2.8. 
+[20Dec2024 13:55:04.400] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.trebuchet.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[20Dec2024 13:55:04.400] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.trebuchet.damageMultiplier was corrected from 2.0 to its default, 2.0. 
+[20Dec2024 13:55:04.400] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.catapult.projectileSpeed was corrected from 2.0 to its default, 2.0. 
+[20Dec2024 13:55:04.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.catapult.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.catapult.damageMultiplier was corrected from 1.0 to its default, 1.0. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.ballista.projectileSpeed was corrected from 4.5 to its default, 4.5. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.ballista.inaccuracy was corrected from 0.04 to its default, 0.04. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.ballista.damageMultiplier was corrected from 1.2 to its default, 1.2. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.battering_ram.projectileSpeed was corrected from 0.0 to its default, 0.0. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.battering_ram.inaccuracy was corrected from 0.5 to its default, 0.5. 
+[20Dec2024 13:55:04.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.battering_ram.damageMultiplier was corrected from 0.0 to its default, 0.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.siege_ladder.projectileSpeed was corrected from 0.0 to its default, 0.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.siege_ladder.inaccuracy was corrected from 0.0 to its default, 0.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.siege_ladder.damageMultiplier was corrected from 0.0 to its default, 0.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.cannonball.mass was corrected from 15.0 to its default, 15.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.cannonball.explosionRadius was corrected from 3.0 to its default, 3.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.stone.mass was corrected from 50.0 to its default, 50.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.stone.explosionRadius was corrected from 2.0 to its default, 2.0. 
+[20Dec2024 13:55:04.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.giant_stone.mass was corrected from 70.0 to its default, 70.0. 
+[20Dec2024 13:55:04.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.giant_stone.explosionRadius was corrected from 5.0 to its default, 5.0. 
+[20Dec2024 13:55:04.493] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[20Dec2024 13:55:04.521] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[20Dec2024 13:55:04.588] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20Dec2024 13:55:04.623] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[20Dec2024 13:55:04.631] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[20Dec2024 13:55:04.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[20Dec2024 13:55:04.721] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20Dec2024 13:55:04.733] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[20Dec2024 13:55:04.734] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20Dec2024 13:55:04.734] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[20Dec2024 13:55:04.749] [Thread-2/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[20Dec2024 13:55:04.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: AHEAD Current: 1.9.9-backport.1 Target: null
+[20Dec2024 13:55:04.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[20Dec2024 13:55:04.892] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[20Dec2024 13:55:04.893] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[20Dec2024 13:55:04.894] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[20Dec2024 13:55:04.894] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[20Dec2024 13:55:05.004] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[20Dec2024 13:55:05.017] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[20Dec2024 13:55:05.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[20Dec2024 13:55:05.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[20Dec2024 13:55:05.217] [modloading-worker-0/INFO] [com.calculusmaster.difficultraids.config.RaidDifficultyConfig/]: Difficult Raids: Baking Config Values!
+[20Dec2024 13:55:05.219] [modloading-worker-0/INFO] [com.calculusmaster.difficultraids.config.RaidDifficultyConfig/]: Difficult Raids: Baking Config Values!
+[20Dec2024 13:55:05.221] [modloading-worker-0/INFO] [com.calculusmaster.difficultraids.config.RaidDifficultyConfig/]: Difficult Raids: Baking Config Values!
+[20Dec2024 13:55:05.224] [modloading-worker-0/INFO] [com.calculusmaster.difficultraids.config.RaidDifficultyConfig/]: Difficult Raids: Baking Config Values!
+[20Dec2024 13:55:05.224] [modloading-worker-0/INFO] [com.calculusmaster.difficultraids.config.RaidDifficultyConfig/]: Difficult Raids: Baking Config Values!
+[20Dec2024 13:55:05.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[20Dec2024 13:55:05.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Dec2024 13:55:05.239] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[20Dec2024 13:55:05.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[20Dec2024 13:55:05.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[20Dec2024 13:55:05.427] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Dec2024 13:55:05.531] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[20Dec2024 13:55:05.817] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Permacraft/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[20Dec2024 13:55:05.818] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Permacraft/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[20Dec2024 13:55:05.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.19.2-1.0.17 Target: null
+[20Dec2024 13:55:05.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20Dec2024 13:55:05.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.19.2-2.5.26 Target: 1.19.2-2.5.27
+[20Dec2024 13:55:05.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20Dec2024 13:55:06.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[20Dec2024 13:55:06.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[20Dec2024 13:55:06.604] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:06.738] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:06.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: AHEAD Current: 1.9.5 Target: null
+[20Dec2024 13:55:06.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[20Dec2024 13:55:06.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
+[20Dec2024 13:55:06.945] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:07.027] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:07.267] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:07.384] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:08.958] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:09.071] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[20Dec2024 13:55:09.561] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[20Dec2024 13:55:09.706] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [#aether:is_aether (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: #aether:is_aether (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.707] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ad_astra:lunar_wastelands (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.707] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [twilightforest:swamp (from totw_modded-forge-1.19.2-1.0.5.jar), twilightforest:fire_swamp (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	twilightforest:fire_swamp (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.708] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [blue_skies:unorthodox_valley (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:shaded_woodlands (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:crystal_dunes (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:sunset_maple_forest (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:rising_creek (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:crystal_roughs (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:searing_grassland (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:crescent_orchard (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:shaded_woodlands (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:crystal_dunes (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:sunset_maple_forest (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:rising_creek (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:crystal_roughs (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:searing_grassland (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:crescent_orchard (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.709] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [rats:ratlantis (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: rats:ratlantis (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.709] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [twilightforest:forest (from totw_modded-forge-1.19.2-1.0.5.jar), twilightforest:spooky_forest (from totw_modded-forge-1.19.2-1.0.5.jar), twilightforest:mushroom_forest (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: twilightforest:forest (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	twilightforest:spooky_forest (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	twilightforest:mushroom_forest (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.710] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [blue_skies:calming_skies (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:brightlands (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:slushlands (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:frostbitten_forest (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:frostbitten_forest_clearing (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:snow_covered_pines (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:brisk_meadow (from totw_modded-forge-1.19.2-1.0.5.jar), blue_skies:polar_highland (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:brightlands (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:slushlands (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:frostbitten_forest (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:frostbitten_forest_clearing (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:snow_covered_pines (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:brisk_meadow (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	blue_skies:polar_highland (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.710] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ad_astra:martian_canyon_creek (from totw_modded-forge-1.19.2-1.0.5.jar), ad_astra:martian_wastelands (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	ad_astra:martian_wastelands (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.710] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [the_bumblezone:crystal_canyon (from totw_modded-forge-1.19.2-1.0.5.jar), the_bumblezone:pollinated_fields (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: the_bumblezone:crystal_canyon (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	the_bumblezone:pollinated_fields (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.711] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ad_astra:infernal_venus_barrens (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.711] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.19.2-1.0.5.jar), ad_astra:glacio_ice_peaks (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.19.2-1.0.5.jar), 
+	ad_astra:glacio_ice_peaks (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:09.712] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ad_astra:mercury_deltas (from totw_modded-forge-1.19.2-1.0.5.jar)] as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.19.2-1.0.5.jar)
+[20Dec2024 13:55:10.223] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[20Dec2024 13:55:10.232] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[20Dec2024 13:55:10.550] [Worker-Main-3/INFO] [com.calculusmaster.difficultraids.data.raiderentries.RaidWaveReloadListener/]: DifficultRaids: Starting Data Loading for Raid Waves (raids).
+[20Dec2024 13:55:10.555] [Worker-Main-3/INFO] [com.calculusmaster.difficultraids.data.raiderentries.RaidWaveReloadListener/]: DifficultRaids: Data Loader for raids loaded 0 finalized objects
+[20Dec2024 13:55:10.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[20Dec2024 13:55:10.697] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template_copy: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
+[20Dec2024 13:55:10.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
+[20Dec2024 13:55:10.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[20Dec2024 13:55:10.786] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template_copy: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
+[20Dec2024 13:55:10.813] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[20Dec2024 13:55:10.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
+[20Dec2024 13:55:10.830] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[20Dec2024 13:55:11.008] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[20Dec2024 13:55:11.014] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[20Dec2024 13:55:11.080] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[20Dec2024 13:55:11.199] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template: Unknown item id 'majruszsdifficulty:enderium_upgrade_smithing_template'
+[20Dec2024 13:55:11.209] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[20Dec2024 13:55:11.218] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[20Dec2024 13:55:11.315] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3096 advancements
+[20Dec2024 13:55:11.320] [main/INFO] [Dungeon Crawl/]: Loading data...
+[20Dec2024 13:55:11.600] [main/INFO] [Dungeon Crawl/]: Done.
+[20Dec2024 13:55:11.601] [main/INFO] [io.github.mortuusars.exposure.data.LensesDataLoader/]: Loading exposure lenses:
+[20Dec2024 13:55:11.603] [main/INFO] [io.github.mortuusars.exposure.data.LensesDataLoader/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[20Dec2024 13:55:11.611] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 80 skill nodes
+[20Dec2024 13:55:11.614] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
+[20Dec2024 13:55:11.621] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
+[20Dec2024 13:55:11.659] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.149869ms
+[20Dec2024 13:55:11.767] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 10 milliseconds
+[20Dec2024 13:55:11.769] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[20Dec2024 13:55:11.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[20Dec2024 13:55:11.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Dec2024 13:55:11.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Dec2024 13:55:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Dec2024 13:55:12.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Dec2024 13:55:12.055] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Dec2024 13:55:12.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Dec2024 13:55:12.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Dec2024 13:55:12.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Dec2024 13:55:12.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Dec2024 13:55:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Permatrago"
+[20Dec2024 13:55:12.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Dec2024 13:55:14.930] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 13:55:14.931] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 13:55:14.931] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 13:55:14.931] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 13:55:14.932] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 13:55:15.338] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[20Dec2024 13:55:15.489] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2668 ms
+[20Dec2024 13:55:15.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.308s)! For help, type "help"
+[20Dec2024 13:55:15.523] [Server thread/ERROR] [net.minecraftforge.server.permission.PermissionAPI/]: Unable to find configured permission handler luckperms:permission_handler, will use forge:default_handler
+[20Dec2024 13:55:15.527] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Dec2024 13:55:15.533] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[20Dec2024 13:55:15.533] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20Dec2024 13:55:15.546] [Server thread/WARN] [ModernFix/]: Dedicated server took 35.775 seconds to load
+[20Dec2024 13:55:15.560] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25575
+[20Dec2024 13:55:35.069] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@203f9a55
+[20Dec2024 13:55:35.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:57329] logged in with entity id 63 at (5965.808303972635, 64.0, 179.23211570325228)
+[20Dec2024 13:55:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[20Dec2024 13:55:38.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[20Dec2024 13:55:38.524] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[20Dec2024 13:55:39.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
