@@ -263,3 +263,16 @@
 [20Dec2024 04:03:24.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
 [20Dec2024 04:03:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
 [20Dec2024 04:03:24.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[20Dec2024 04:15:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Dec2024 04:15:28.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 04:15:28.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 04:15:28.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Server closed
+[20Dec2024 04:15:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[20Dec2024 04:15:28.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 04:15:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:overworld
+[20Dec2024 04:15:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_end
+[20Dec2024 04:15:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_nether
+[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Permatrago): All chunks are saved
+[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
