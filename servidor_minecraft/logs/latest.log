@@ -2603,3 +2603,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 19:07:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
 [20Dec2024 19:07:55.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
 [20Dec2024 19:07:56.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[20Dec2024 19:15:23.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d92dae1
+[20Dec2024 19:15:23.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:48027] logged in with entity id 114892 at (5958.037648359298, 64.0, 163.42465234863985)
+[20Dec2024 19:15:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 19:15:23.647] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 19:15:23.648] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 19:15:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> hola volvi
+[20Dec2024 19:15:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[20Dec2024 19:15:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> se fueron?
+[20Dec2024 19:15:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[20Dec2024 19:15:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> :(
+[20Dec2024 19:15:49.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> el duck dijo q vendria en unas horas
+[20Dec2024 19:15:53.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[20Dec2024 19:16:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> oe
+[20Dec2024 19:16:17.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> enseguida vengo denuevo en 10 minutos
+[20Dec2024 19:16:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya vengo jere
+[20Dec2024 19:16:28.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[20Dec2024 19:16:28.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[20Dec2024 19:16:28.712] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[20Dec2024 19:20:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
+[20Dec2024 19:20:22.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
