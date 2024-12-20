@@ -4596,3 +4596,80 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Dec2024 23:47:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xuxa xd
 [20Dec2024 23:47:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> xd
 [20Dec2024 23:47:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> active otra habilidad
+[20Dec2024 23:47:25.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 23:47:25.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[20Dec2024 23:47:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tenes algun animal algo?
+[20Dec2024 23:47:52.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya se me paso la habilidad
+[20Dec2024 23:47:56.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> xd
+[20Dec2024 23:48:29.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ay
+[20Dec2024 23:48:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te dio algo?
+[20Dec2024 23:48:37.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> algo q diga sanguinare?
+[20Dec2024 23:48:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> sanguinare
+[20Dec2024 23:48:48.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> vampiris
+[20Dec2024 23:48:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si ese es
+[20Dec2024 23:48:56.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:48:56.617] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:49:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> MRD
+[20Dec2024 23:49:20.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> y ahora
+[20Dec2024 23:49:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> active otra habilidad
+[20Dec2024 23:49:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> caracoles
+[20Dec2024 23:50:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> mmmm
+[20Dec2024 23:50:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya vengo ire a conseguirte un colmillo
+[20Dec2024 23:50:22.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ok
+[20Dec2024 23:50:53.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[20Dec2024 23:51:55.330] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 23:51:55.331] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 23:51:55.335] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[20Dec2024 23:51:57.451] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[20Dec2024 23:51:57.465] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[20Dec2024 23:52:25.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 23:52:25.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[20Dec2024 23:52:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> man
+[20Dec2024 23:52:35.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> q
+[20Dec2024 23:52:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> esta aca un baron vampiro
+[20Dec2024 23:52:46.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> esta cosa es chetadisima
+[20Dec2024 23:52:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> casi me muero
+[20Dec2024 23:52:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> asy
+[20Dec2024 23:53:02.171] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[20Dec2024 23:53:02.172] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 29.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 7.25 Damage not ignoring armor: 21.75 Reduced Damage: 21.75 Result Damage: 29.0
+[20Dec2024 23:54:20.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has completed the challenge [Regicide]
+[20Dec2024 23:54:20.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/7581, l='ServerLevel[Permatrago]', x=1751.54, y=73.00, z=-957.20] died: Vampire Baron Level 4 was slain by Blasv1901121
+[20Dec2024 23:54:22.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ez
+[20Dec2024 23:54:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ala
+[20Dec2024 23:54:27.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> y eso
+[20Dec2024 23:54:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> fue de matar a ese vampirio
+[20Dec2024 23:55:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> que da?
+[20Dec2024 23:55:06.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> sangre pura lvl 4
+[20Dec2024 23:55:26.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:26.136] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:26.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:26.721] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:27.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:27.298] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:28.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:28.624] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:30.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:30.027] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:31.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:31.252] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:55:31.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:55:31.770] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:11.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:11.604] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:11.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 23:56:12.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:12.172] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:12.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:12.706] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:13.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:13.306] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:13.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:13.856] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:56:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:56:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dale click
+[20Dec2024 23:56:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> bueno
+[20Dec2024 23:56:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ahora solo debes esperar
+[20Dec2024 23:56:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> que da?
+[20Dec2024 23:57:03.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te convierte en vampiro
+[20Dec2024 23:57:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> god
