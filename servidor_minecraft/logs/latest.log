@@ -672,3 +672,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 16:47:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xq los golems son corte
 [20Dec2024 16:47:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> de arcilla
 [20Dec2024 16:47:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> por un mod
+[20Dec2024 16:47:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> de pillagers
+[20Dec2024 16:47:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me acorde
+[20Dec2024 16:47:44.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que tenia uno coso de pillagers
+[20Dec2024 16:47:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> vamos?
+[20Dec2024 16:47:57.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> eh
+[20Dec2024 16:48:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> si nose vamos
+[20Dec2024 16:48:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q cosow
+[20Dec2024 16:48:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> asu
+[20Dec2024 16:49:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Eh-eh-oh, eh-oh]
+[20Dec2024 16:50:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vex
+[20Dec2024 16:52:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me estan haciendo mierda
+[20Dec2024 16:52:29.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vex
+[20Dec2024 16:52:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> asu
+[20Dec2024 16:52:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was struck down by Legioner
+[20Dec2024 16:52:50.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_20.12.2024-16.52.50.dat
+[20Dec2024 16:52:50.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -414 Y: 64.0 Z: 1254
+[20Dec2024 16:53:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was chopped to bits by Skirmisher
+[20Dec2024 16:53:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> VERRRRGA
+[20Dec2024 16:53:13.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ESTAN ROTISIMOS
+[20Dec2024 16:53:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> necesitamo xp
+[20Dec2024 16:53:38.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[20Dec2024 16:54:10.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo
+[20Dec2024 16:54:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> dormi
+[20Dec2024 16:55:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tpa
+[20Dec2024 16:55:11.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tengo el cooldown
+[20Dec2024 16:55:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> NO ME DEJAA
+[20Dec2024 16:55:59.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no me deja :(
+[20Dec2024 16:56:00.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[20Dec2024 16:56:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[20Dec2024 16:56:00.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 16:56:06.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3990047c[id=<null>,name=Jeree_whyy,properties={},legacy=false] (/127.251.170.131:35307) lost connection: Disconnected
+[20Dec2024 16:56:10.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67aaa008
+[20Dec2024 16:56:10.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:45785] logged in with entity id 43695 at (5975.794275372906, 64.0, 176.53971703434468)
+[20Dec2024 16:56:10.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 16:56:10.964] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 16:56:10.965] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 16:56:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> TAMPOCOO
+[20Dec2024 16:56:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xfin

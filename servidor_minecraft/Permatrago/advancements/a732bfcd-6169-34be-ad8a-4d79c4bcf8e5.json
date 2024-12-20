@@ -3937,6 +3937,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-15 15:35:58 +0000",
       "minecraft:skeleton": "2024-12-14 20:07:49 +0000",
+      "minecraft:vindicator": "2024-12-20 16:52:00 +0000",
       "minecraft:spider": "2024-12-14 20:50:45 +0000",
       "minecraft:creeper": "2024-12-16 17:31:14 +0000",
       "minecraft:phantom": "2024-12-16 16:50:43 +0000",
@@ -4490,6 +4491,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion": {
+    "criteria": {
+      "has_onion_crate": "2024-12-20 16:52:04 +0000"
     },
     "done": true
   },

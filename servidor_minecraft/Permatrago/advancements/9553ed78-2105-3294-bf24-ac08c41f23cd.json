@@ -3073,9 +3073,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-20 16:49:23 +0000",
       "minecraft:skeleton": "2024-12-15 19:42:11 +0000",
       "minecraft:spider": "2024-12-15 19:58:57 +0000",
       "minecraft:creeper": "2024-12-17 00:04:52 +0000",
+      "minecraft:evoker": "2024-12-20 16:49:45 +0000",
       "minecraft:witch": "2024-12-18 19:24:47 +0000",
       "minecraft:wither_skeleton": "2024-12-20 16:00:03 +0000",
       "minecraft:husk": "2024-12-15 20:44:37 +0000",
@@ -4010,6 +4012,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-18 20:08:50 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2024-12-20 16:49:25 +0000"
     },
     "done": true
   },
