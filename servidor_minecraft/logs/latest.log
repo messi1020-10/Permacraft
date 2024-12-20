@@ -710,3 +710,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 16:56:10.965] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
 [20Dec2024 16:56:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> TAMPOCOO
 [20Dec2024 16:56:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xfin
+[20Dec2024 16:57:38.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was struck down by Legioner
+[20Dec2024 16:57:42.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> :(((((
+[20Dec2024 16:57:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> trae una cama
+[20Dec2024 16:57:51.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tarde..
+[20Dec2024 16:58:30.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was doomed to fall by Legioner
+[20Dec2024 16:58:35.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ermano
+[20Dec2024 16:58:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Vindicator
+[20Dec2024 16:58:58.513] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_20.12.2024-16.58.58.dat
+[20Dec2024 16:58:58.513] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -443 Y: 64.0 Z: 1272
+[20Dec2024 16:59:07.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no me deja romper la cama
+[20Dec2024 16:59:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> donde verga
+[20Dec2024 16:59:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ya tengo
+[20Dec2024 17:00:50.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no encuentro mis cosas
+[20Dec2024 17:01:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vindicator
+[20Dec2024 17:01:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah pero si salgo mi cuerpo desaparece?
+[20Dec2024 17:01:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no se
+[20Dec2024 17:01:59.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> supongo que no
+[20Dec2024 17:02:49.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was chopped to bits by Skirmisher
+[20Dec2024 17:02:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> amigo me estoy hartando
+[20Dec2024 17:03:37.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was struck down by Legioner
+[20Dec2024 17:04:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vindicator
+[20Dec2024 17:04:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> las encontre pero me mori
+[20Dec2024 17:04:42.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> por lo menos las deje mas a la vista
+[20Dec2024 17:04:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hay 20 mil golems
+[20Dec2024 17:05:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was doomed to fall by Vindicator
+[20Dec2024 17:06:29.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was chopped to bits by Skirmisher
+[20Dec2024 17:06:34.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> CONCHA DE TU MADREE
+[20Dec2024 17:07:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was struck down by Legioner
+[20Dec2024 17:07:32.655] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_20.12.2024-17.07.32.dat
+[20Dec2024 17:07:32.655] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -417 Y: 64.0 Z: 1266
+[20Dec2024 17:07:41.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> justo sacaste el agua
+[20Dec2024 17:07:45.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45898, l='ServerLevel[Permatrago]', x=-408.43, y=64.00, z=1287.81] died, message: 'Villager was chopped to bits by Skirmisher'
+[20Dec2024 17:07:46.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuando xd
