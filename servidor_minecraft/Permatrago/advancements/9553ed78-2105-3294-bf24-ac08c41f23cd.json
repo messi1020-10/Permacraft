@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-20 17:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-15 19:42:38 +0000"
@@ -1645,6 +1651,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2024-12-20 17:44:39 +0000",
       "skeleton_skull": "2024-12-15 20:45:46 +0000"
     },
     "done": false
@@ -2144,6 +2151,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-20 17:43:48 +0000"
     },
     "done": true
   },
@@ -2743,6 +2756,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-20 17:43:48 +0000",
       "in_better_spider_dungeon": "2024-12-20 01:17:41 +0000"
     },
     "done": false
@@ -4142,6 +4156,7 @@
       "cooked_mutton": "2024-12-18 17:44:15 +0000",
       "cooked_beef": "2024-12-20 15:57:50 +0000",
       "beef": "2024-12-18 17:26:27 +0000",
+      "baked_potato": "2024-12-20 17:42:40 +0000",
       "porkchop": "2024-12-15 20:39:08 +0000",
       "potato": "2024-12-15 19:40:37 +0000",
       "mutton": "2024-12-15 19:54:50 +0000",
@@ -4442,6 +4457,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2024-12-20 17:44:25 +0000"
     },
     "done": true
   },
