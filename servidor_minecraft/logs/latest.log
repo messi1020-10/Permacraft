@@ -768,3 +768,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 17:14:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
 [20Dec2024 17:14:43.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
 [20Dec2024 17:14:43.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 17:20:46.665] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fde89a3
+[20Dec2024 17:20:46.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:41259] logged in with entity id 52020 at (-445.69999998807907, 64.0, 1263.699999988079)
+[20Dec2024 17:20:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[20Dec2024 17:20:47.031] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[20Dec2024 17:20:47.031] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[20Dec2024 17:20:51.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> boeee
+[20Dec2024 17:20:59.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> put
+[20Dec2024 17:21:00.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> a
+[20Dec2024 17:24:15.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was chopped to bits by Skirmisher
+[20Dec2024 17:24:15.306] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_20.12.2024-17.24.15.dat
+[20Dec2024 17:24:15.306] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -427 Y: 64.0 Z: 1266
+[20Dec2024 17:25:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
