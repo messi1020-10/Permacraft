@@ -1584,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-20 00:12:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_battle_hammer": {
     "criteria": {
       "has_steel_ingot": "2024-12-16 17:07:23 +0000"

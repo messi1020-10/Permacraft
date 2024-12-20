@@ -4,3 +4,6 @@
 [20Dec2024 00:00:54.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
 [20Dec2024 00:00:54.074] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
 [20Dec2024 00:01:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
+[20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[20Dec2024 00:17:20.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
