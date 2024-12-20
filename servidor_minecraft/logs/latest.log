@@ -743,3 +743,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 17:07:41.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> justo sacaste el agua
 [20Dec2024 17:07:45.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45898, l='ServerLevel[Permatrago]', x=-408.43, y=64.00, z=1287.81] died, message: 'Villager was chopped to bits by Skirmisher'
 [20Dec2024 17:07:46.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuando xd
+[20Dec2024 17:07:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cuando recuperaste las cosas
+[20Dec2024 17:07:58.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y los tenia alejado
+[20Dec2024 17:08:06.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah cd ni cuenta me di
+[20Dec2024 17:08:08.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[20Dec2024 17:08:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tengo 3 cuetnos de cabra difetrentes
+[20Dec2024 17:09:07.853] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/45947, l='ServerLevel[Permatrago]', x=-410.50, y=72.75, z=1238.74] died, message: 'Fisherman was chopped to bits by Skirmisher'
+[20Dec2024 17:09:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was struck down by Legioner
+[20Dec2024 17:09:28.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was struck down by Legioner
+[20Dec2024 17:10:20.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Hunt and Gather]
+[20Dec2024 17:10:50.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ya vuelvo
+[20Dec2024 17:10:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> voy a comer
+[20Dec2024 17:10:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok xd
+[20Dec2024 17:10:55.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[20Dec2024 17:10:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[20Dec2024 17:10:55.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[20Dec2024 17:11:27.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46109, l='ServerLevel[Permatrago]', x=-466.30, y=64.00, z=1229.30] died, message: 'Fisherman was slain by Zombie'
+[20Dec2024 17:11:38.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/46110, l='ServerLevel[Permatrago]', x=-467.70, y=66.00, z=1247.70] died, message: 'Fisherman was slain by Zombie'
+[20Dec2024 17:12:18.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[20Dec2024 17:12:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[20Dec2024 17:12:18.355] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 17:14:43.205] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@753de507
+[20Dec2024 17:14:43.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:42867] logged in with entity id 51237 at (-461.7941934981995, 67.0625, 1259.090751829948)
+[20Dec2024 17:14:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 17:14:43.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 17:14:43.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy

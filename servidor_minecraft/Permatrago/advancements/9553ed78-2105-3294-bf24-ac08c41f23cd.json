@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-20 17:10:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 20:45:20 +0000"
@@ -1577,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
@@ -1808,6 +1820,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-20 17:10:20 +0000"
     },
     "done": true
   },
@@ -2204,6 +2222,12 @@
   "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2024-12-18 18:41:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-20 17:10:24 +0000"
     },
     "done": true
   },
@@ -2711,6 +2735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-20 01:17:41 +0000"
@@ -2792,6 +2822,12 @@
   "vampirism:main/root": {
     "criteria": {
       "second": "2024-12-20 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
     },
     "done": true
   },
@@ -3276,6 +3312,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-20 17:10:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
@@ -3381,6 +3423,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-15 19:38:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-20 17:10:24 +0000"
     },
     "done": true
   },
@@ -3697,6 +3745,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-12-20 17:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
@@ -3778,6 +3832,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
     "criteria": {
       "has_meat": "2024-12-15 19:42:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-20 17:10:20 +0000"
     },
     "done": true
   },
@@ -3898,6 +3958,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-15 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-20 17:10:21 +0000"
     },
     "done": true
   },
@@ -4159,6 +4225,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-18 17:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
     },
     "done": true
   },
@@ -4577,6 +4649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-20 17:10:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-18 19:52:50 +0000"
@@ -4670,6 +4748,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-15 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
     },
     "done": true
   },
@@ -5012,6 +5096,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 17:11:34 +0000"
     },
     "done": true
   },
