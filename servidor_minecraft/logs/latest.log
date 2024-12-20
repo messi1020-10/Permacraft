@@ -2654,3 +2654,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 19:29:55.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Flying is not enabled on this server
 [20Dec2024 19:29:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [20Dec2024 19:29:55.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[20Dec2024 19:42:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> volvio papi
+[20Dec2024 19:46:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] capaz scoot se meta en un rato
+[20Dec2024 19:46:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] lo estoy ayudando con los mods
