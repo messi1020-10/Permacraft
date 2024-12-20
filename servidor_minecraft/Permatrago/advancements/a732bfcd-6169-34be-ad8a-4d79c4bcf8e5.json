@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "exposure:recipes/developing_black_and_white_film": {
+    "criteria": {
+      "has_black_and_white_film": "2024-12-18 23:28:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -851,6 +857,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-18 23:26:57 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2024-12-14 19:38:39 +0000"
@@ -1194,6 +1206,12 @@
     },
     "done": true
   },
+  "exposure:recipes/developing_color_film": {
+    "criteria": {
+      "has_color_film": "2024-12-18 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-16 18:25:08 +0000"
@@ -1329,6 +1347,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
     "criteria": {
       "has_wood": "2024-12-14 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-18 23:26:57 +0000"
     },
     "done": true
   },
@@ -5536,6 +5560,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/expose_film": {
+    "criteria": {
+      "expose_film": "2024-12-18 23:28:36 +0000"
     },
     "done": true
   },
