@@ -212,3 +212,14 @@
 [20Dec2024 02:18:21.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
 [20Dec2024 02:18:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2025, y=65, z=1140} BlockPos{x=-2025, y=63, z=1139}
 [20Dec2024 02:20:01.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/33670, l='ServerLevel[Permatrago]', x=806.63, y=62.58, z=211.32] died, message: 'Villager was slain by DuckZJ'
+[20Dec2024 02:22:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Spectator Mode]
+[20Dec2024 02:23:26.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Survival Mode]
+[20Dec2024 02:23:58.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Spectator Mode]
+[20Dec2024 02:24:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Survival Mode]
+[20Dec2024 02:25:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Applied effect effect.vampirism.bad_omen_vampire to DuckZJ]
+[20Dec2024 02:26:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> da
+[20Dec2024 02:26:48.324] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@568a78b9
+[20Dec2024 02:26:48.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:38369] logged in with entity id 42522 at (-1961.5244652558065, 50.0, 1088.3940602173438)
+[20Dec2024 02:26:48.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[20Dec2024 02:26:50.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[20Dec2024 02:26:50.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
