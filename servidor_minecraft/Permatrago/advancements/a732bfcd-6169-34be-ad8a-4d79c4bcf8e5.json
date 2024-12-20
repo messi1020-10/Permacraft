@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 21:35:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 23:14:30 +0000"
@@ -182,6 +188,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 23:14:30 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2024-12-20 21:39:30 +0000"
     },
     "done": true
   },
@@ -737,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-20 21:39:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-12-14 19:47:51 +0000"
@@ -854,6 +872,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_longbow": {
     "criteria": {
       "has_leather": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-20 21:39:08 +0000"
     },
     "done": true
   },
@@ -1266,6 +1290,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/castle_block_dark_brick_0": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 21:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -1614,6 +1644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 21:36:12 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2024-12-14 19:40:19 +0000"
@@ -1647,6 +1683,12 @@
   "werewolves:recipes/werewolves/silver_ingot_from_blasting_werewolves_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-16 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-20 21:39:08 +0000"
     },
     "done": true
   },
@@ -2479,6 +2521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-20 21:36:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-12-14 20:12:18 +0000"
@@ -2518,6 +2566,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-14 20:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 21:36:29 +0000"
     },
     "done": true
   },
@@ -2983,15 +3037,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 21:36:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 21:36:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-14 19:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-12-20 21:39:08 +0000"
     },
     "done": true
   },
@@ -4231,6 +4303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 21:36:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 20:42:41 +0000"
@@ -4741,6 +4819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 21:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-14 20:28:02 +0000",
@@ -5033,6 +5117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 21:35:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
@@ -5084,6 +5174,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-14 20:51:06 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/get_photograph": {
+    "criteria": {
+      "get_photograph": "2024-12-20 21:39:30 +0000"
     },
     "done": true
   },
@@ -5210,6 +5306,18 @@
   "werewolves:recipes/werewolves/silver_shovel": {
     "criteria": {
       "has_sticks": "2024-12-15 18:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-20 21:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 21:36:29 +0000"
     },
     "done": true
   },
@@ -5427,6 +5535,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-14 20:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-20 21:36:29 +0000"
     },
     "done": true
   },
@@ -5775,6 +5889,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-15 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 21:35:09 +0000"
     },
     "done": true
   },
@@ -6421,6 +6541,12 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2024-12-20 21:39:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/weapontable/tech_crossbow_ammo_package": {
     "criteria": {
       "has_skill": "2024-12-18 19:35:31 +0000"
@@ -6526,6 +6652,12 @@
   "majruszsdifficulty:angler_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-12-20 21:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 21:36:12 +0000"
     },
     "done": true
   },
