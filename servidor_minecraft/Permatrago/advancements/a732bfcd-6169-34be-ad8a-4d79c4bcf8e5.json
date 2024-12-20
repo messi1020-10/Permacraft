@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 16:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-18 21:49:38 +0000"
@@ -6357,6 +6363,12 @@
       "has_stick": "2024-12-14 19:38:47 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2024-12-20 16:34:17 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
