@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-20 20:13:36 +0000"
@@ -113,9 +119,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-20 20:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
     },
     "done": true
   },
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-20 20:14:16 +0000"
@@ -185,6 +215,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-20 20:16:45 +0000"
@@ -212,6 +254,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-20 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-20 20:41:59 +0000"
     },
     "done": true
   },
@@ -281,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
@@ -293,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
@@ -302,6 +362,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-20 20:41:59 +0000"
     },
     "done": true
   },
@@ -397,6 +463,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
@@ -445,9 +517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/sheep": {
     "criteria": {
       "has_white_wool": "2024-12-20 20:13:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2024-12-20 20:45:49 +0000"
     },
     "done": true
   },
@@ -571,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
@@ -622,6 +712,12 @@
   "vampirism:recipes/vampirism/hunter/stake": {
     "criteria": {
       "has_sticks": "2024-12-20 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:41:59 +0000"
     },
     "done": true
   },
@@ -757,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-20 20:16:45 +0000"
@@ -871,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
@@ -934,6 +1042,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
     },
     "done": true
   },
@@ -1057,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2024-12-20 20:05:59 +0000"
@@ -1141,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 20:28:54 +0000"
@@ -1180,6 +1306,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-20 20:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-20 20:41:59 +0000"
     },
     "done": true
   },
@@ -1237,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 20:19:48 +0000"
@@ -1279,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-20 20:41:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-20 20:12:52 +0000"
@@ -1312,6 +1462,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
     },
     "done": true
   },
@@ -1447,6 +1603,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-20 20:28:22 +0000"
@@ -1534,6 +1696,12 @@
   "paraglider:recipes/paraglider/paraglider": {
     "criteria": {
       "has_stick": "2024-12-20 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
     },
     "done": true
   },
@@ -1639,6 +1807,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 20:45:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
@@ -1723,6 +1897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 20:13:59 +0000",
@@ -1731,6 +1911,7 @@
       "minecraft:dark_forest": "2024-12-20 20:15:15 +0000",
       "minecraft:river": "2024-12-20 20:16:22 +0000",
       "minecraft:dripstone_caves": "2024-12-20 20:30:46 +0000",
+      "minecraft:snowy_taiga": "2024-12-20 20:41:10 +0000",
       "minecraft:forest": "2024-12-20 20:12:18 +0000",
       "minecraft:frozen_ocean": "2024-12-20 20:36:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 20:16:47 +0000",
@@ -1846,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-20 20:14:16 +0000"
@@ -1879,6 +2066,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
     },
     "done": true
   },
@@ -1936,6 +2129,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-20 20:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-20 20:31:50 +0000"
@@ -1963,6 +2162,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-20 20:45:35 +0000"
     },
     "done": true
   },
@@ -2089,6 +2294,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2024-12-20 20:41:59 +0000"
     },
     "done": true
   },
