@@ -3174,3 +3174,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 21:52:44.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
 [20Dec2024 21:52:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
 [20Dec2024 21:52:44.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 22:11:26.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
