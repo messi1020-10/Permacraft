@@ -258,3 +258,120 @@
 [20Dec2024 13:55:38.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
 [20Dec2024 13:55:38.524] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
 [20Dec2024 13:55:39.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 15:16:31.281] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30c13396
+[20Dec2024 15:16:31.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:57263] logged in with entity id 14637 at (5922.699999988079, 3.0, 341.5850760469821)
+[20Dec2024 15:16:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 15:16:33.894] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 15:16:33.896] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 15:16:34.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[20Dec2024 15:16:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[20Dec2024 15:16:34.268] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 15:16:47.121] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6915feab
+[20Dec2024 15:16:47.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:52613] logged in with entity id 14840 at (5922.699999988079, 3.0, 341.5850760469821)
+[20Dec2024 15:16:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 15:16:47.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 15:16:47.394] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 15:16:48.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[20Dec2024 15:16:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[20Dec2024 15:16:48.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 15:18:51.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f380f91
+[20Dec2024 15:18:51.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:58101] logged in with entity id 15429 at (5922.699999988079, 3.0, 341.5850760469821)
+[20Dec2024 15:18:51.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[20Dec2024 15:18:54.911] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[20Dec2024 15:18:54.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 15:19:05.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> hola
+[20Dec2024 15:19:17.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> justo termine de organizar los cofres
+[20Dec2024 15:19:21.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[20Dec2024 15:19:46.101] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[20Dec2024 15:20:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> te tengo un regalito duck
+[20Dec2024 15:21:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a poco si
+[20Dec2024 15:21:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> si
+[20Dec2024 15:21:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> estoy en la base
+[20Dec2024 15:21:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> con esto
+[20Dec2024 15:21:40.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> le rompes la cabeza a los vampiros
+[20Dec2024 15:22:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> gracias
+[20Dec2024 15:22:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> de nada
+[20Dec2024 15:22:16.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> :)
+[20Dec2024 15:22:18.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ya soy nivel 5 de cazador
+[20Dec2024 15:22:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> te faltan 3
+[20Dec2024 15:22:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> para poder usarla
+[20Dec2024 15:22:39.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> esta bastante rota creo
+[20Dec2024 15:22:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> contra los vampiros
+[20Dec2024 15:22:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 15:23:01.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> viste la pelea del momo?
+[20Dec2024 15:23:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[20Dec2024 15:23:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> gano xd
+[20Dec2024 15:23:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a
+[20Dec2024 15:23:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vampire Hunter
+[20Dec2024 15:23:30.570] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jeree_whyy with unique ID travelersbackpack.standard_20.12.2024-15.23.30.dat
+[20Dec2024 15:23:30.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5975 Y: 63.0 Z: 141
+[20Dec2024 15:23:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> verga
+[20Dec2024 15:23:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tpa
+[20Dec2024 15:23:41.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> rompiste mi cama?
+[20Dec2024 15:23:48.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 15:24:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> onde ta xd
+[20Dec2024 15:24:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> mi cama
+[20Dec2024 15:24:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no puedo romper nada xd
+[20Dec2024 15:25:00.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> la puedo poner en la casa?
+[20Dec2024 15:25:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 15:25:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> yaya
+[20Dec2024 15:25:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> para ti voy bien de coras?
+[20Dec2024 15:25:50.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 15:25:55.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> okok
+[20Dec2024 15:25:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> es q
+[20Dec2024 15:26:16.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tenia cmo 9 de las orbes esa
+[20Dec2024 15:26:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pero las perdi
+[20Dec2024 15:26:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no se donde quedaron xd
+[20Dec2024 15:26:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en la casa hay
+[20Dec2024 15:26:47.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y xq no te pones vos?
+[20Dec2024 15:26:51.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> o hay un limite
+[20Dec2024 15:27:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> el limite es lo que yo tengo
+[20Dec2024 15:27:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aah
+[20Dec2024 15:27:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> entonces me falta una
+[20Dec2024 15:27:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> puedo usar 4?
+[20Dec2024 15:27:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 15:27:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[20Dec2024 15:27:41.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> donde tan
+[20Dec2024 15:27:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en la casa
+[20Dec2024 15:27:55.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> a la mierda
+[20Dec2024 15:28:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah ya
+[20Dec2024 15:28:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya tengo el limite
+[20Dec2024 15:28:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuando se pondra el nether?
+[20Dec2024 15:28:28.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mañana
+[20Dec2024 15:28:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya tengo ganas de maxiarme
+[20Dec2024 15:28:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[20Dec2024 15:29:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no es necesario susurrar
+[20Dec2024 15:29:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah
+[20Dec2024 15:29:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bno
+[20Dec2024 15:29:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> solo estamos nosotros
+[20Dec2024 15:29:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pero q opinas
+[20Dec2024 15:29:42.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mas tarde lo pongo
+[20Dec2024 15:29:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah si cierto no esta mas juance
+[20Dec2024 15:29:44.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[20Dec2024 15:30:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no entiendo bien lo de los amuletos
+[20Dec2024 15:30:15.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> yo menos
+[20Dec2024 15:30:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ahora ya no me atacan los golems
+[20Dec2024 15:30:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y soy lobo
+[20Dec2024 15:30:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xdd
+[20Dec2024 15:32:04.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> despues puedo hacer una granja de xp?
+[20Dec2024 15:32:12.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mas lejos
+[20Dec2024 15:32:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> sisi
+[20Dec2024 15:32:38.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> voy a hacer ritual
+[20Dec2024 15:33:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya nivel 5 :)
+[20Dec2024 15:33:20.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> mirate
+[20Dec2024 15:33:30.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pera xd
+[20Dec2024 15:33:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> COMO ERAA
+[20Dec2024 15:33:49.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> dxd
+[20Dec2024 15:34:27.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah ya
+[20Dec2024 15:34:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Best Friends Forever]
+[20Dec2024 15:34:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[20Dec2024 15:34:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a
+[20Dec2024 15:34:39.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> auu
+[20Dec2024 15:34:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Vampire Hunter Trainer
+[20Dec2024 15:35:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> que
+[20Dec2024 15:35:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me mato de un golpe
+[20Dec2024 15:35:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no tenes armadura
+[20Dec2024 15:35:22.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> si tengo xd
+[20Dec2024 15:35:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> a la
+[20Dec2024 15:36:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> este puto te saca 9 coras con armadura de diamante si sos lobo
+[20Dec2024 15:36:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> a la mierda
