@@ -1578,6 +1578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-20 18:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-14 19:38:43 +0000"
@@ -2736,6 +2742,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 18:08:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
     "criteria": {
       "has_feather": "2024-12-14 21:09:47 +0000"
@@ -3150,6 +3162,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-20 18:08:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-16 18:00:23 +0000"
@@ -3459,6 +3477,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-15 03:30:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-20 18:08:13 +0000"
     },
     "done": true
   },
@@ -4635,6 +4659,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-16 22:46:56 +0000",
       "minecraft:taiga": "2024-12-15 20:11:39 +0000",
       "minecraft:birch_forest": "2024-12-14 19:55:29 +0000",
+      "minecraft:bamboo_jungle": "2024-12-20 18:08:12 +0000",
       "minecraft:beach": "2024-12-14 19:33:43 +0000",
       "minecraft:dark_forest": "2024-12-15 17:09:34 +0000",
       "minecraft:sparse_jungle": "2024-12-14 20:51:17 +0000",
@@ -4715,6 +4740,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-14 19:42:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 18:07:07 +0000"
     },
     "done": true
   },
@@ -4829,6 +4860,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-14 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-20 18:07:07 +0000"
     },
     "done": true
   },
@@ -5661,6 +5698,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cocoa": "2024-12-20 18:07:10 +0000",
       "sugar_cane": "2024-12-18 03:54:57 +0000",
       "wheat": "2024-12-16 17:21:49 +0000"
     },
