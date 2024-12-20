@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-20 02:35:55 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_duck_egg": "2024-12-15 18:08:34 +0000"
@@ -1368,6 +1374,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-20 02:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 17:56:13 +0000"
@@ -1431,6 +1443,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:56:04 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-20 02:35:55 +0000"
     },
     "done": true
   },
@@ -2121,6 +2139,12 @@
   "werewolves:recipes/werewolves/silver_axe": {
     "criteria": {
       "has_sticks": "2024-12-15 17:33:22 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-20 02:35:55 +0000"
     },
     "done": true
   },
@@ -4062,6 +4086,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2024-12-20 02:35:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:41:34 +0000"
@@ -5152,6 +5182,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/steel_battleaxe": {
     "criteria": {
       "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-20 02:35:55 +0000"
     },
     "done": true
   },
