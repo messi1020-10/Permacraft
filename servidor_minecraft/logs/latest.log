@@ -2685,3 +2685,68 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 20:08:58.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
 [20Dec2024 20:08:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
 [20Dec2024 20:08:58.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[20Dec2024 20:11:54.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21922da4
+[20Dec2024 20:11:54.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Scoot2023[/127.178.125.160:47955] logged in with entity id 124427 at (-7.5, 66.0, 25.5)
+[20Dec2024 20:11:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
+[20Dec2024 20:11:57.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Scoot2023 (18)
+[20Dec2024 20:11:57.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Scoot2023
+[20Dec2024 20:12:09.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> hola perra
+[20Dec2024 20:12:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
+[20Dec2024 20:12:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahi me meto
+[20Dec2024 20:14:48.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Stone Age]
+[20Dec2024 20:15:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Getting an Upgrade]
+[20Dec2024 20:15:01.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62919f0f
+[20Dec2024 20:15:01.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:44833] logged in with entity id 125374 at (5980.584046137169, 64.0, 175.06317207056327)
+[20Dec2024 20:15:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[20Dec2024 20:15:04.771] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[20Dec2024 20:15:04.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[20Dec2024 20:15:11.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> hola pene
+[20Dec2024 20:15:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeee
+[20Dec2024 20:15:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hola scoot
+[20Dec2024 20:15:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> esta mas afk jere
+[20Dec2024 20:15:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> se nota se nota
+[20Dec2024 20:15:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[20Dec2024 20:15:53.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> hola
+[20Dec2024 20:16:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q q paso
+[20Dec2024 20:16:21.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> chill de cojones
+[20Dec2024 20:16:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y ese casco de virgen
+[20Dec2024 20:16:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tenes
+[20Dec2024 20:16:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> como se llama eso
+[20Dec2024 20:16:52.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> el
+[20Dec2024 20:16:58.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q tiene corte
+[20Dec2024 20:17:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> para poner objetos
+[20Dec2024 20:17:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> en la pared
+[20Dec2024 20:17:12.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> marco
+[20Dec2024 20:17:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> eso
+[20Dec2024 20:17:15.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tenes
+[20Dec2024 20:17:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> o cuero
+[20Dec2024 20:17:37.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> arriba
+[20Dec2024 20:18:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuero tene?a
+[20Dec2024 20:18:15.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> toma
+[20Dec2024 20:18:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Acquire Hardware]
+[20Dec2024 20:18:20.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has reached the goal [Half a flight]
+[20Dec2024 20:18:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 20:18:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aca tenes
+[20Dec2024 20:18:23.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Hammer Time!]
+[20Dec2024 20:18:25.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cuero
+[20Dec2024 20:18:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ponelo
+[20Dec2024 20:18:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[20Dec2024 20:18:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y cuando lo use te lo quedas
+[20Dec2024 20:18:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> el
+[20Dec2024 20:18:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[20Dec2024 20:19:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a scoot le digo
+[20Dec2024 20:19:03.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah
+[20Dec2024 20:19:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pone el waystone
+[20Dec2024 20:19:24.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> tienes la hoja?
+[20Dec2024 20:19:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cual?
+[20Dec2024 20:19:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> santa baca
+[20Dec2024 20:20:13.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> como era lo de la mochila
+[20Dec2024 20:20:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> click derecho teniendola en la mano
+[20Dec2024 20:20:31.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y te la pones
+[20Dec2024 20:20:42.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> como la pongo
+[20Dec2024 20:20:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> la que es un steve y una flecha para arriba
+[20Dec2024 20:20:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y con b la abris
+[20Dec2024 20:21:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ya ok
+[20Dec2024 20:21:06.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pone el waystone
+[20Dec2024 20:21:10.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> dale que me quiero ir
+[20Dec2024 20:21:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me voy y te lo quedas
