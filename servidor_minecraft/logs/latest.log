@@ -961,3 +961,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 18:17:16.617] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [teamlapenlib:main,majruszsdifficulty:main,spartanshields:network,exposure:packets,mowziesmobs:net,paraglider:master,werewolves:main,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,curios:main,siegemachines:main,vampirism:main,spartanweaponry:network,tpa:tpa,geckolib3:main,waystones:network,majruszlibrary:main] rejected their client side version number
 [20Dec2024 18:17:16.618] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [20Dec2024 18:17:16.667] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30a460e1[id=<null>,name=Scoot2023,properties={},legacy=false] (/127.178.125.160:55835) lost connection: Connection closed - mismatched mod channel list
+[20Dec2024 18:23:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [When in Rome]
+[20Dec2024 18:23:59.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6016, y=64, z=188} BlockPos{x=6016, y=63, z=187}
+[20Dec2024 18:27:56.124] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1eef7403
+[20Dec2024 18:27:56.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:43357] logged in with entity id 85486 at (798.9228447592265, 72.0, 167.36730258087533)
+[20Dec2024 18:27:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[20Dec2024 18:28:26.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[20Dec2024 18:28:26.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[20Dec2024 18:28:26.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[20Dec2024 18:29:00.971] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e2e3b37
+[20Dec2024 18:29:00.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:57409] logged in with entity id 86135 at (798.9228447592265, 72.0, 167.36730258087533)
+[20Dec2024 18:29:00.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[20Dec2024 18:29:01.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[20Dec2024 18:29:01.435] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121

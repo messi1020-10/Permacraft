@@ -5495,6 +5495,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox_smithing": {
+    "criteria": {
+      "has_fox": "2024-12-20 18:17:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
