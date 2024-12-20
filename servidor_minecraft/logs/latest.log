@@ -257,3 +257,6 @@
 [20Dec2024 03:21:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> ZZZZZZZZZ
 [20Dec2024 03:36:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> zz
 [20Dec2024 03:36:12.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> zzz
+[20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[20Dec2024 04:01:45.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
