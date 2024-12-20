@@ -27,3 +27,5 @@
 [20Dec2024 01:06:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
 [20Dec2024 01:06:20.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
 [20Dec2024 01:06:20.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
+[20Dec2024 01:13:20.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3044, l='ServerLevel[Permatrago]', x=5996.48, y=63.00, z=180.81] died, message: 'Villager bled to death from injuries caused by Jeree_whyy'
+[20Dec2024 01:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Cobweb Entanglement]
