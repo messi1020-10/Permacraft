@@ -7,3 +7,18 @@
 [20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
 [20Dec2024 00:17:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
 [20Dec2024 00:17:20.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[20Dec2024 00:22:00.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@796d059a
+[20Dec2024 00:22:00.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:55355] logged in with entity id 2406 at (806.9499999880791, 72.0, 174.15486564970539)
+[20Dec2024 00:22:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[20Dec2024 00:22:30.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[20Dec2024 00:22:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[20Dec2024 00:22:30.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[20Dec2024 00:23:09.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@392a4890
+[20Dec2024 00:23:09.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:46667] logged in with entity id 2594 at (806.9499999880791, 72.0, 174.15486564970539)
+[20Dec2024 00:23:09.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[20Dec2024 00:23:10.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[20Dec2024 00:23:10.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[20Dec2024 00:23:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xuxa
+[20Dec2024 00:25:14.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[20Dec2024 00:25:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[20Dec2024 00:25:14.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
