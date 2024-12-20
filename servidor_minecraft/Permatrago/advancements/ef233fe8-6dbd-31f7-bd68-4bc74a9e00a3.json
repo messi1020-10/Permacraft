@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-20 22:55:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:52:39 +0000"
@@ -566,6 +572,12 @@
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 22:59:37 +0000"
     },
     "done": true
   },
