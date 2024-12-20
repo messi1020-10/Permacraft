@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-16 17:14:33 +0000"
@@ -1139,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-20 20:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-18 17:21:54 +0000"
@@ -1160,6 +1172,12 @@
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-20 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:58:26 +0000"
     },
     "done": true
   },
@@ -1208,6 +1226,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-16 17:14:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:58:26 +0000"
     },
     "done": true
   },
@@ -1926,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:59:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-15 19:35:20 +0000"
@@ -2319,6 +2349,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:59:26 +0000"
     },
     "done": true
   },
@@ -3314,6 +3350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:58:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-12-15 20:18:50 +0000"
@@ -4215,6 +4257,7 @@
       "potato": "2024-12-15 19:40:37 +0000",
       "mutton": "2024-12-15 19:54:50 +0000",
       "bread": "2024-12-20 18:10:47 +0000",
+      "golden_apple": "2024-12-20 20:52:44 +0000",
       "rotten_flesh": "2024-12-15 19:58:43 +0000",
       "cookie": "2024-12-20 20:50:28 +0000",
       "cooked_salmon": "2024-12-20 16:44:27 +0000",
@@ -4240,6 +4283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:58:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 20:45:20 +0000"
@@ -4255,6 +4304,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 17:04:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:59:26 +0000"
     },
     "done": true
   },

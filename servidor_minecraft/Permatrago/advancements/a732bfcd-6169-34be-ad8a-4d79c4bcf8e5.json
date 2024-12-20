@@ -1440,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-20 20:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-14 20:11:54 +0000"
@@ -1485,6 +1491,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/large_bolt_quiver_smithing": {
     "criteria": {
       "has_large_quiver_upgrade_kit": "2024-12-18 23:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:57:18 +0000"
     },
     "done": true
   },
@@ -1545,6 +1557,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-14 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:57:18 +0000"
     },
     "done": true
   },
@@ -4153,6 +4171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:57:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -5277,6 +5301,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:57:18 +0000"
     },
     "done": true
   },
