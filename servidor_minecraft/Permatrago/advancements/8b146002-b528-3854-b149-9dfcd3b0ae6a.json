@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-20 18:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-14 22:41:15 +0000"
@@ -1254,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-20 18:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 19:54:08 +0000"
@@ -1629,6 +1641,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-20 18:00:35 +0000"
     },
     "done": true
   },
@@ -2133,6 +2151,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-20 18:00:35 +0000"
     },
     "done": true
   },
@@ -3524,6 +3548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-20 18:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -3937,6 +3967,12 @@
   "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2024-12-16 17:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-20 18:04:27 +0000"
     },
     "done": true
   },
@@ -4838,6 +4874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-20 18:04:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
@@ -5314,6 +5356,12 @@
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-12-14 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-20 18:05:40 +0000"
     },
     "done": true
   },
@@ -6257,6 +6305,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether": {
+    "criteria": {
+      "has_nether_wart": "2024-12-20 18:05:40 +0000"
     },
     "done": true
   },

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 18:05:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_scythe": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
@@ -1845,6 +1851,12 @@
   "travelersbackpack:recipes/travelersbackpack/cake_smithing": {
     "criteria": {
       "has_cake": "2024-12-20 01:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 18:05:18 +0000"
     },
     "done": true
   },
