@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-20 21:12:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/throne": {
     "criteria": {
       "has_planks": "2024-12-20 20:13:36 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-20 21:12:59 +0000"
     },
     "done": true
   },
@@ -290,6 +302,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
     "criteria": {
       "has_wood": "2024-12-20 20:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
     },
     "done": true
   },
@@ -425,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:52:39 +0000"
@@ -548,6 +572,12 @@
   "vampirism:recipes/vampirism/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
     },
     "done": true
   },
@@ -725,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 21:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-20 20:15:50 +0000"
@@ -857,6 +893,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 21:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
@@ -962,6 +1004,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
     },
     "done": true
   },
@@ -1584,6 +1632,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "hasSticks": "2024-12-20 20:14:16 +0000"
@@ -1881,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
@@ -2085,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-20 21:17:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:52:39 +0000"
@@ -2106,6 +2172,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-20 20:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-20 21:17:41 +0000"
     },
     "done": true
   },
@@ -2136,6 +2208,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
     },
     "done": true
   },
@@ -2421,6 +2499,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-20 20:14:48 +0000"
@@ -2559,6 +2643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 21:11:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-20 20:18:19 +0000"
@@ -2637,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-20 21:12:46 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-20 20:13:36 +0000"
@@ -2658,6 +2754,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 21:12:58 +0000"
     },
     "done": true
   },
