@@ -260,3 +260,6 @@
 [20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
 [20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
 [20Dec2024 04:01:45.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[20Dec2024 04:03:24.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[20Dec2024 04:03:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[20Dec2024 04:03:24.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm

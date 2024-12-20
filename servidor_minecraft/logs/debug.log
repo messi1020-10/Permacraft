@@ -10728,3 +10728,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Dec2024 04:01:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
 [20Dec2024 04:01:45.303] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DuckZJ
 [20Dec2024 04:01:45.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[20Dec2024 04:03:24.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[20Dec2024 04:03:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[20Dec2024 04:03:24.545] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ssauromm
+[20Dec2024 04:03:24.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[20Dec2024 04:03:44.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 04:03:44.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[20Dec2024 04:08:44.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 04:08:44.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
