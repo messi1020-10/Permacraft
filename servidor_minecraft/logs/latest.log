@@ -2576,3 +2576,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 18:48:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
 [20Dec2024 18:49:03.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86892, l='ServerLevel[Permatrago]', x=750.87, y=64.00, z=152.30] died, message: 'Villager was slain by Zombie'
 [20Dec2024 18:49:11.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> 2 si tenes ss
+[20Dec2024 18:53:30.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86998, l='ServerLevel[Permatrago]', x=816.21, y=72.00, z=177.24] died, message: 'Villager was shot by Skeleton'
+[20Dec2024 18:55:27.347] [Worker-Main-131/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[20Dec2024 18:55:27.347] [Worker-Main-131/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20Dec2024 18:55:27.891] [Worker-Main-131/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[20Dec2024 18:56:44.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Enchanter]
+[20Dec2024 18:57:26.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1426, y=31, z=2313} but found not block entity block Block{minecraft:water}[level=2] at location
+[20Dec2024 18:57:26.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-1426, y=31, z=2313}
+[20Dec2024 18:58:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [The Bender of the 15th Century]
+[20Dec2024 18:58:25.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[20Dec2024 18:58:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[20Dec2024 18:58:25.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[20Dec2024 18:58:41.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/102502, l='ServerLevel[Permatrago]', x=798.14, y=70.94, z=184.02] died, message: 'Farmer was slain by Zombie'
+[20Dec2024 18:59:47.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[20Dec2024 18:59:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[20Dec2024 18:59:47.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123

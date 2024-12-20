@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 18:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-17 00:54:13 +0000"
@@ -3368,6 +3374,7 @@
       "minecraft:creeper": "2024-12-15 18:37:13 +0000",
       "minecraft:zombified_piglin": "2024-12-18 03:25:01 +0000",
       "minecraft:witch": "2024-12-15 19:16:31 +0000",
+      "minecraft:wither_skeleton": "2024-12-20 18:49:52 +0000",
       "minecraft:husk": "2024-12-15 18:56:46 +0000",
       "minecraft:stray": "2024-12-15 18:37:56 +0000",
       "minecraft:zombie": "2024-12-15 18:51:27 +0000",
@@ -3607,6 +3614,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-15 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 18:50:03 +0000"
     },
     "done": true
   },
@@ -4953,6 +4966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 18:50:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-15 17:41:34 +0000"
@@ -5079,9 +5098,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 18:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 18:50:03 +0000"
     },
     "done": true
   },
@@ -5322,6 +5353,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-20 18:52:58 +0000"
     },
     "done": true
   },
