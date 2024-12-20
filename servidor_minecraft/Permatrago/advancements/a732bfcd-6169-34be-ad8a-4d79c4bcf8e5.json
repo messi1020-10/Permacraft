@@ -4778,6 +4778,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-20 15:45:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2024-12-14 19:38:39 +0000"

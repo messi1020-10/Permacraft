@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-20 15:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 19:52:50 +0000"
@@ -1115,6 +1121,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2024-12-20 15:47:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-15 19:44:50 +0000"
@@ -1526,6 +1538,12 @@
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-15 20:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2024-12-20 15:47:00 +0000"
     },
     "done": true
   },
@@ -3255,6 +3273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 15:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-18 20:03:07 +0000"
@@ -4659,6 +4683,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2024-12-18 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 15:52:03 +0000"
     },
     "done": true
   },
