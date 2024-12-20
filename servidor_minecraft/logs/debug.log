@@ -4904,3 +4904,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Dec2024 00:25:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [20Dec2024 00:25:14.947] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Blasv1901121
 [20Dec2024 00:25:14.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[20Dec2024 00:28:44.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 00:28:44.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[20Dec2024 00:33:44.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 00:33:44.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
