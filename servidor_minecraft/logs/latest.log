@@ -31,3 +31,59 @@
 [20Dec2024 01:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy has made the advancement [Cobweb Entanglement]
 [20Dec2024 01:20:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Cave Spider
 [20Dec2024 01:26:45.912] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4960, y=-2, z=690}
+[20Dec2024 01:29:35.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c2ca4e1
+[20Dec2024 01:29:35.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:47895] logged in with entity id 12760 at (6000.451029908475, 64.0, 154.1409567050763)
+[20Dec2024 01:29:35.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[20Dec2024 01:29:38.387] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[20Dec2024 01:29:38.389] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[20Dec2024 01:29:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> duck
+[20Dec2024 01:29:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tas en base?
+[20Dec2024 01:29:48.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> boee
+[20Dec2024 01:29:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 01:29:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xq me mori aca cerca xd
+[20Dec2024 01:30:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> como te teletransportas de una?
+[20Dec2024 01:30:05.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nos
+[20Dec2024 01:30:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nose
+[20Dec2024 01:30:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pongo tpa y se me tpa directamente
+[20Dec2024 01:30:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> u
+[20Dec2024 01:30:47.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tene carne?
+[20Dec2024 01:30:51.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[20Dec2024 01:31:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo
+[20Dec2024 01:31:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tengo corazons
+[20Dec2024 01:31:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> corazones
+[20Dec2024 01:31:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aca
+[20Dec2024 01:31:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> toma
+[20Dec2024 01:31:50.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> gracia
+[20Dec2024 01:33:02.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Cave Spider
+[20Dec2024 01:33:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya xd
+[20Dec2024 01:33:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> tas bien? xd
+[20Dec2024 01:33:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[20Dec2024 01:33:35.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ok
+[20Dec2024 01:33:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mira
+[20Dec2024 01:33:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> woao
+[20Dec2024 01:33:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pongo coso y lo rompes
+[20Dec2024 01:34:01.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah no tengo xp xd
+[20Dec2024 01:34:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[20Dec2024 01:35:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> duck
+[20Dec2024 01:35:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ni idea por donde es
+[20Dec2024 01:35:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> nda nda
+[20Dec2024 01:35:21.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ehm
+[20Dec2024 01:35:30.156] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66844ea
+[20Dec2024 01:35:30.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:48843] logged in with entity id 14443 at (-2029.718562993344, 68.0, 1103.6840144478358)
+[20Dec2024 01:35:30.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[20Dec2024 01:35:33.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[20Dec2024 01:35:33.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[20Dec2024 01:35:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> hi lil bros
+[20Dec2024 01:36:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si ves bambu es la base
+[20Dec2024 01:37:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> encontre
+[20Dec2024 01:37:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que andan haciendo
+[20Dec2024 01:37:51.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> fumano marihuana
+[20Dec2024 01:37:57.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> fumando*
+[20Dec2024 01:37:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> muy bien
+[20Dec2024 01:38:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q le pinto
+[20Dec2024 01:38:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> al golem este
+[20Dec2024 01:38:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
+[20Dec2024 01:38:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> 1 de vida te dejo
+[20Dec2024 01:38:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me empezo a atacar de la nda xd
+[20Dec2024 01:39:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque sos hombre lobo
+[20Dec2024 01:39:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> aah xd
