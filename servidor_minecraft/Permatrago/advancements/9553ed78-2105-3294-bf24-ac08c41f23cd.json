@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/garlic_finder": {
+    "criteria": {
+      "has_garlic": "2024-12-20 01:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-18 19:03:38 +0000"
@@ -1082,6 +1088,12 @@
   "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-20 01:49:20 +0000"
     },
     "done": true
   },
@@ -2711,6 +2723,12 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2024-12-20 01:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 17:08:43 +0000"
@@ -3497,6 +3515,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-15 20:14:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2024-12-20 01:49:46 +0000"
     },
     "done": true
   },
@@ -4586,6 +4610,12 @@
   "travelersbackpack:recipes/travelersbackpack/bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 17:11:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2024-12-20 01:49:46 +0000"
     },
     "done": true
   },

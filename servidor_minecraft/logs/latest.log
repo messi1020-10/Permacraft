@@ -145,3 +145,62 @@
 [20Dec2024 01:49:08.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 11 daño
 [20Dec2024 01:49:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y a los vampiros les hace mierda
 [20Dec2024 01:49:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bro
+[20Dec2024 01:49:31.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> e consegui..
+[20Dec2024 01:49:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> un ajo...
+[20Dec2024 01:49:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> 2..
+[20Dec2024 01:50:02.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> todavia lo necesitas?
+[20Dec2024 01:50:10.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hace un monton consegui
+[20Dec2024 01:50:12.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xdd
+[20Dec2024 01:50:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si conseguis una pluma trae
+[20Dec2024 01:50:50.011] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ce0681d
+[20Dec2024 01:50:50.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZwanderFemboy[/127.30.92.233:35941] logged in with entity id 22666 at (-6.5, 67.0, 41.5)
+[20Dec2024 01:50:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy joined the game
+[20Dec2024 01:50:50.020] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] ZwanderFemboy first spawned. Set First Dragon to 1
+[20Dec2024 01:50:51.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZwanderFemboy (18)
+[20Dec2024 01:50:51.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZwanderFemboy
+[20Dec2024 01:50:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> epa
+[20Dec2024 01:51:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> como q femboy
+[20Dec2024 01:51:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q rico
+[20Dec2024 01:51:10.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> mentira xd
+[20Dec2024 01:51:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZwanderFemboy> q
+[20Dec2024 01:51:18.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> so
+[20Dec2024 01:51:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy has made the advancement [Crops of the Wild]
+[20Dec2024 01:51:36.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> quien verga es zwander
+[20Dec2024 01:51:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> uno de discord
+[20Dec2024 01:51:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> neko
+[20Dec2024 01:51:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah ya
+[20Dec2024 01:52:12.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZwanderFemboy> ahorita vengo
+[20Dec2024 01:52:13.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZwanderFemboy lost connection: Disconnected
+[20Dec2024 01:52:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZwanderFemboy left the game
+[20Dec2024 01:52:13.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZwanderFemboy
+[20Dec2024 01:52:16.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duro
+[20Dec2024 01:52:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> casi se quema mi ajolote xd
+[20Dec2024 01:53:40.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1079} BlockPos{x=-2003, y=64, z=1078}
+[20Dec2024 01:53:40.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2003, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
+[20Dec2024 01:53:40.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
+[20Dec2024 01:53:40.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
+[20Dec2024 01:53:40.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
+[20Dec2024 01:53:40.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2004, y=64, z=1078} BlockPos{x=-2004, y=63, z=1079}
+[20Dec2024 01:53:40.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=63, z=1074} BlockPos{x=-2003, y=64, z=1075}
+[20Dec2024 01:53:44.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:44.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2002, y=64, z=1076} BlockPos{x=-2008, y=63, z=1073}
+[20Dec2024 01:53:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cuando necesito un calamar no hay
+[20Dec2024 01:55:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me falta la tinta
+[20Dec2024 01:56:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bno gente
+[20Dec2024 01:57:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> en un rato vuelvo
+[20Dec2024 01:57:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ok
+[20Dec2024 01:57:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me abuli
+[20Dec2024 01:57:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[20Dec2024 01:57:09.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[20Dec2024 01:57:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[20Dec2024 01:57:09.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[20Dec2024 01:57:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> oye DuckZJ
+[20Dec2024 01:57:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cuando el nether
+[20Dec2024 01:57:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> perdon por insistir
+[20Dec2024 01:57:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en unos dias
+[20Dec2024 01:57:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> -..

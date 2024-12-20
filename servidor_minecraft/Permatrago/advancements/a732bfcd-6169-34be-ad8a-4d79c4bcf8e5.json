@@ -3669,6 +3669,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 01:56:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-14 19:47:54 +0000"
@@ -4208,6 +4214,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-18 19:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 01:56:15 +0000"
     },
     "done": true
   },
