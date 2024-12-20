@@ -2124,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-20 01:40:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"

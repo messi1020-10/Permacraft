@@ -797,6 +797,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 01:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 17:11:03 +0000"
@@ -893,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
@@ -950,6 +962,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-18 17:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -1481,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-15 20:32:23 +0000"
@@ -1574,6 +1598,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-16 17:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -1739,6 +1769,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/cake_smithing": {
+    "criteria": {
+      "has_cake": "2024-12-20 01:42:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
     "criteria": {
       "has_diamond": "2024-12-15 20:02:10 +0000"
@@ -1754,6 +1790,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -1781,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/totem_top": {
     "criteria": {
       "has_obsidian": "2024-12-18 18:41:29 +0000"
@@ -1796,6 +1844,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 17:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -1862,6 +1916,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_string": "2024-12-15 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -2747,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_warhammer": {
     "criteria": {
       "has_wood": "2024-12-15 19:39:17 +0000"
@@ -2891,6 +2957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 02:12:20 +0000"
@@ -2969,6 +3041,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 19:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -3119,6 +3197,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-15 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 01:48:12 +0000"
     },
     "done": true
   },
@@ -3380,6 +3464,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-20 01:45:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-18 19:52:50 +0000"
@@ -3513,6 +3603,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-20 01:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-15 20:14:04 +0000"
@@ -3600,6 +3696,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-18 17:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -3708,6 +3810,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-18 20:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
@@ -4337,6 +4445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 01:48:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-15 19:35:20 +0000"
@@ -4433,9 +4547,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 01:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 20:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 01:48:12 +0000"
     },
     "done": true
   },
@@ -4613,6 +4739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
       "has_cloth": "2024-12-15 19:44:56 +0000"
@@ -4688,6 +4820,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 01:38:55 +0000"
     },
     "done": true
   },
