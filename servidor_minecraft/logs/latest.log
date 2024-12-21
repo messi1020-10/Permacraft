@@ -59,3 +59,8 @@
 [21Dec2024 00:17:41.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
 [21Dec2024 00:17:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
 [21Dec2024 00:17:41.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[21Dec2024 00:51:41.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aa03663
+[21Dec2024 00:51:41.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Scoot2023[/127.178.125.160:46915] logged in with entity id 14177 at (5930.34776047375, 57.0, 532.7568384309803)
+[21Dec2024 00:51:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
+[21Dec2024 00:51:43.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Scoot2023 (18)
+[21Dec2024 00:51:43.296] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Scoot2023
