@@ -4549,6 +4549,12 @@
     },
     "done": true
   },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2024-12-21 02:25:19 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2024-12-15 20:03:19 +0000"
@@ -5487,6 +5493,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-20 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2024-12-21 02:20:38 +0000"
     },
     "done": true
   },
