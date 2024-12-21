@@ -505,3 +505,13 @@
 [21Dec2024 03:39:02.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
 [21Dec2024 03:39:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
 [21Dec2024 03:39:02.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[21Dec2024 03:41:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Burying the Hatchet]
+[21Dec2024 03:48:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> buenas noches
+[21Dec2024 03:48:15.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[21Dec2024 03:48:15.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[21Dec2024 03:48:15.224] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[21Dec2024 03:48:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[21Dec2024 03:48:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 03:48:31.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: backup<--[HERE]
+[21Dec2024 03:48:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 03:48:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
