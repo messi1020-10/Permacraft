@@ -4398,6 +4398,12 @@
     },
     "done": true
   },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-12-21 01:30:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
