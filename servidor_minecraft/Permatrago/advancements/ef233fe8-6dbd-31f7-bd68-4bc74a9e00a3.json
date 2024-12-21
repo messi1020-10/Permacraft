@@ -782,6 +782,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 20:33:41 +0000",
+      "minecraft:spider": "2024-12-21 01:16:38 +0000",
       "minecraft:creeper": "2024-12-20 22:45:07 +0000",
       "minecraft:zombie": "2024-12-20 21:21:24 +0000"
     },
@@ -3246,6 +3247,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-20 20:13:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2024-12-21 01:16:16 +0000"
     },
     "done": true
   },
