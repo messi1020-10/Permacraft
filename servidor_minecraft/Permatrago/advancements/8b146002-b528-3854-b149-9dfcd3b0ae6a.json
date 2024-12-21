@@ -5081,6 +5081,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-21 02:56:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"

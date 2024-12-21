@@ -2851,6 +2851,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-21 02:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-15 19:39:19 +0000"

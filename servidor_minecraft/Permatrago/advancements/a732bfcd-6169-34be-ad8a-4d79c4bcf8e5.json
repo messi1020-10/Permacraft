@@ -1596,6 +1596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 02:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-16 18:22:37 +0000"
@@ -4105,6 +4111,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-15 15:35:58 +0000",
       "minecraft:skeleton": "2024-12-14 20:07:49 +0000",
+      "minecraft:guardian": "2024-12-21 02:51:05 +0000",
       "minecraft:vindicator": "2024-12-20 16:52:00 +0000",
       "minecraft:spider": "2024-12-14 20:50:45 +0000",
       "minecraft:creeper": "2024-12-16 17:31:14 +0000",
@@ -4711,6 +4718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 02:51:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2024-12-14 19:48:18 +0000"
@@ -5234,6 +5247,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 02:51:06 +0000"
     },
     "done": true
   },
