@@ -516,3 +516,6 @@
 [21Dec2024 03:48:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Dec2024 03:48:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
 [21Dec2024 03:58:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has reached the goal [Plant Food]
+[21Dec2024 04:03:37.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[21Dec2024 04:03:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[21Dec2024 04:03:37.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm

@@ -23364,3 +23364,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 04:01:59.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_2
 [21Dec2024 04:01:59.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_empty
 [21Dec2024 04:01:59.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_6
+[21Dec2024 04:02:46.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 04:02:46.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 04:03:31.014] [Worker-Main-232/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 91.352s
+[21Dec2024 04:03:37.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[21Dec2024 04:03:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[21Dec2024 04:03:37.567] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ssauromm
+[21Dec2024 04:03:37.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[21Dec2024 04:07:46.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 04:07:46.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago

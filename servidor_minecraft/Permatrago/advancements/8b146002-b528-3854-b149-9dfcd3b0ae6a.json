@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-21 03:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-14 19:47:19 +0000"
@@ -6400,6 +6406,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 03:58:49 +0000"
     },
     "done": true
   },
