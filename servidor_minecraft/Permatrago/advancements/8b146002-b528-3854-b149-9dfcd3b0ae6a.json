@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-21 01:22:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
       "has_gunpowder": "2024-12-14 20:18:13 +0000"
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-14 19:42:06 +0000"
@@ -278,6 +296,12 @@
   "vampirism:recipes/vampirism/vampire/coffin_magenta": {
     "criteria": {
       "has_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
     },
     "done": true
   },
@@ -1061,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-14 20:37:20 +0000"
@@ -1590,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2024-12-14 19:35:50 +0000"
@@ -2055,6 +2091,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-15 01:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
     },
     "done": true
   },
@@ -2701,6 +2743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
@@ -2908,6 +2956,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longbow": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
     },
     "done": true
   },
@@ -3211,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-16 17:25:50 +0000"
@@ -3220,6 +3286,12 @@
   "farmersdelight:recipes/farmersdelight/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-21 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
     },
     "done": true
   },
@@ -3238,6 +3310,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-21 01:22:38 +0000"
     },
     "done": true
   },
@@ -3591,6 +3669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/throne": {
     "criteria": {
       "has_planks": "2024-12-14 19:34:56 +0000"
@@ -3630,6 +3714,12 @@
   "travelersbackpack:recipes/travelersbackpack/sheep": {
     "criteria": {
       "has_white_wool": "2024-12-14 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
     },
     "done": true
   },
@@ -3693,6 +3783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-15 00:07:29 +0000"
@@ -3732,6 +3828,12 @@
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
       "has_planks": "2024-12-15 17:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-21 01:22:38 +0000"
     },
     "done": true
   },
@@ -4164,6 +4266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-15 01:35:11 +0000"
@@ -4371,6 +4479,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2024-12-16 17:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-21 01:22:38 +0000"
     },
     "done": true
   },
@@ -4680,6 +4794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
@@ -4728,6 +4848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-16 22:46:56 +0000",
@@ -4735,6 +4861,7 @@
       "minecraft:eroded_badlands": "2024-12-21 01:17:46 +0000",
       "minecraft:birch_forest": "2024-12-14 19:55:29 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 18:08:12 +0000",
+      "minecraft:wooded_badlands": "2024-12-21 01:20:45 +0000",
       "minecraft:badlands": "2024-12-21 01:17:27 +0000",
       "minecraft:beach": "2024-12-14 19:33:43 +0000",
       "minecraft:dark_forest": "2024-12-15 17:09:34 +0000",
@@ -4765,6 +4892,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
     "criteria": {
       "has_feather": "2024-12-14 21:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
     },
     "done": true
   },
@@ -4948,6 +5081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
@@ -5020,9 +5159,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-15 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
     },
     "done": true
   },
@@ -5101,6 +5252,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-15 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
     },
     "done": true
   },
@@ -5281,6 +5438,12 @@
       "cooked_salmon": "2024-12-16 23:43:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
@@ -5661,6 +5824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:rapier": {
     "criteria": {
       "has_rapier": "2024-12-16 19:07:02 +0000"
@@ -5724,6 +5893,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
     },
     "done": true
   },
@@ -5921,6 +6096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-21 01:21:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:26 +0000"
@@ -6035,6 +6216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2024-12-14 20:18:13 +0000"
@@ -6044,6 +6231,12 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2024-12-16 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-21 01:21:19 +0000"
     },
     "done": true
   },

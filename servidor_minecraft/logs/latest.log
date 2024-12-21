@@ -97,3 +97,6 @@
 [21Dec2024 01:12:49.777] [Worker-Main-77/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
 [21Dec2024 01:12:51.477] [Worker-Main-77/WARN] [ModernFix/]: The namespace paraglider contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [21Dec2024 01:12:51.491] [Worker-Main-77/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Dec2024 01:20:19.007] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3153, y=30, z=3726}
+[21Dec2024 01:20:22.341] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3149, y=30, z=3728}
+[21Dec2024 01:27:26.856] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4596, y=32, z=3886}
