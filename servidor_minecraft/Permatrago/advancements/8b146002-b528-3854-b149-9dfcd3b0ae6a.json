@@ -1938,6 +1938,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-21 01:52:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
     "criteria": {
       "has_bow": "2024-12-15 01:19:31 +0000"
@@ -2157,6 +2163,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_katana": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-21 01:56:33 +0000"
     },
     "done": true
   },
@@ -4476,6 +4488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-21 01:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-14 21:17:48 +0000"
@@ -5710,6 +5728,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-21 01:56:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
@@ -5973,6 +5997,7 @@
       "cabbage": "2024-12-21 01:44:20 +0000",
       "onion": "2024-12-21 01:47:24 +0000",
       "tomato": "2024-12-21 01:41:20 +0000",
+      "rice": "2024-12-21 01:52:15 +0000",
       "cocoa": "2024-12-20 18:07:10 +0000",
       "sugar_cane": "2024-12-18 03:54:57 +0000",
       "wheat": "2024-12-16 17:21:49 +0000"
