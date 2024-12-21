@@ -4111,6 +4111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-21 03:28:28 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2024-12-20 16:19:25 +0000"
