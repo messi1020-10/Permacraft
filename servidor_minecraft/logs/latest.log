@@ -56,3 +56,6 @@
 [21Dec2024 00:14:19.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [21Dec2024 00:14:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [21Dec2024 00:14:19.672] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[21Dec2024 00:17:41.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
+[21Dec2024 00:17:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
+[21Dec2024 00:17:41.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023

@@ -4754,3 +4754,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 00:14:19.672] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
 [21Dec2024 00:17:25.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
 [21Dec2024 00:17:25.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 00:17:41.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scoot2023 lost connection: Disconnected
+[21Dec2024 00:17:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 left the game
+[21Dec2024 00:17:41.667] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Scoot2023
+[21Dec2024 00:17:41.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Scoot2023
+[21Dec2024 00:22:25.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:22:25.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 00:27:25.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:27:25.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
