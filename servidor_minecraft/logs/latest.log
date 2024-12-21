@@ -64,3 +64,31 @@
 [21Dec2024 00:51:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 joined the game
 [21Dec2024 00:51:43.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Scoot2023 (18)
 [21Dec2024 00:51:43.296] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Scoot2023
+[21Dec2024 01:00:53.842] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d2e6c74
+[21Dec2024 01:00:53.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:44637] logged in with entity id 15915 at (-1488.0007197757614, 68.0, 2353.1707086696415)
+[21Dec2024 01:00:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[21Dec2024 01:00:56.678] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[21Dec2024 01:00:56.679] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[21Dec2024 01:01:13.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> hola Scoot2023
+[21Dec2024 01:01:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> hola que tal
+[21Dec2024 01:01:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> bien y vos?
+[21Dec2024 01:01:33.728] [Worker-Main-76/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key range in MapLike[{event_delay:0,selector:{tick:-1L}}]; No key source in MapLike[{event_delay:0,selector:{tick:-1L}}]
+[21Dec2024 01:01:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> bien bien
+[21Dec2024 01:01:38.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que suerte bro
+[21Dec2024 01:02:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> tienes lana?
+[21Dec2024 01:02:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> creo que si
+[21Dec2024 01:02:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cuanto ocupas
+[21Dec2024 01:02:25.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> 4
+[21Dec2024 01:02:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> creo
+[21Dec2024 01:02:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ostia
+[21Dec2024 01:02:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no tengo un carajo
+[21Dec2024 01:02:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> espera
+[21Dec2024 01:02:59.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> veo si tengo hilo
+[21Dec2024 01:03:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ok
+[21Dec2024 01:03:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ya
+[21Dec2024 01:03:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> rompelo
+[21Dec2024 01:03:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> despues de que lo use
+[21Dec2024 01:04:03.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21607ms or 432 ticks behind
+[21Dec2024 01:04:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ,
+[21Dec2024 01:04:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> lag
+[21Dec2024 01:06:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Scoot2023 has made the advancement [Not Today, Thank You]
