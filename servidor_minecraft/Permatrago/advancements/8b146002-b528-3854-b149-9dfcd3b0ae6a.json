@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/magic_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 02:35:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
@@ -3720,6 +3726,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 02:35:19 +0000"
     },
     "done": true
   },
