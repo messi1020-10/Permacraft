@@ -3761,6 +3761,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2024-12-20 23:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-14 19:53:28 +0000"
@@ -4067,6 +4073,7 @@
       "minecraft:river": "2024-12-14 19:46:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 18:51:52 +0000",
       "minecraft:stony_shore": "2024-12-16 21:47:22 +0000",
+      "minecraft:snowy_plains": "2024-12-21 00:13:53 +0000",
       "minecraft:dripstone_caves": "2024-12-15 20:34:10 +0000",
       "minecraft:snowy_taiga": "2024-12-20 23:30:22 +0000",
       "minecraft:swamp": "2024-12-15 18:57:09 +0000",
@@ -5274,6 +5281,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-20 23:54:20 +0000"
     },
     "done": true
   },

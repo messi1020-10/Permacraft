@@ -4673,3 +4673,84 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Dec2024 23:56:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> que da?
 [20Dec2024 23:57:03.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te convierte en vampiro
 [20Dec2024 23:57:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> god
+[20Dec2024 23:57:25.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[20Dec2024 23:57:25.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[20Dec2024 23:57:30.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:57:30.819] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 23:58:25.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> mmm
+[20Dec2024 23:58:29.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no te sale todavia el logro
+[20Dec2024 23:58:40.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> raro
+[20Dec2024 23:58:53.118] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Scoot2023 has new faction level vampirism:vampire 1
+[20Dec2024 23:58:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ahi esta
+[20Dec2024 23:58:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ou
+[20Dec2024 23:59:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no te dio logro xd
+[20Dec2024 23:59:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> xD
+[20Dec2024 23:59:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> eres dañado ala luz del sol che
+[21Dec2024 00:00:04.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> me sale todo amarillo
+[21Dec2024 00:00:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> es por eso
+[21Dec2024 00:00:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no te hara nd por un tiempo
+[21Dec2024 00:00:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> que bueno que mi casa es bajo tierra xd
+[21Dec2024 00:00:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero luego te hara mucho daño
+[21Dec2024 00:00:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> aver
+[21Dec2024 00:00:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> y esa cosa
+[21Dec2024 00:00:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> una sombrilla
+[21Dec2024 00:00:56.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> se craftea?
+[21Dec2024 00:00:58.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[21Dec2024 00:01:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> pasa para ver
+[21Dec2024 00:01:07.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me muero
+[21Dec2024 00:01:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tenes esmeraldas?
+[21Dec2024 00:01:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> solo 1
+[21Dec2024 00:01:44.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[21Dec2024 00:01:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> tienes lana?
+[21Dec2024 00:01:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> creo q no
+[21Dec2024 00:02:06.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bueno xao
+[21Dec2024 00:02:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> bye bye
+[21Dec2024 00:02:25.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:02:25.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 00:02:33.702] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 19.643s
+[21Dec2024 00:02:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> fue buena idea hacer mi casa bajo tierra
+[21Dec2024 00:03:50.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero si tenes un coso no te hara nd
+[21Dec2024 00:03:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> un medio torresita es
+[21Dec2024 00:04:03.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q estan en las aldeas
+[21Dec2024 00:04:15.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> esa cosa luego te explico
+[21Dec2024 00:04:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me quedo afk ya vengo
+[21Dec2024 00:05:15.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> afk
+[21Dec2024 00:07:25.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:07:25.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 00:07:44.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> volvi
+[21Dec2024 00:08:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> tienes lana en tus cofres?
+[21Dec2024 00:08:30.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> voy a ver
+[21Dec2024 00:09:13.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no, use todo para algo pero tengo 1 xd
+[21Dec2024 00:09:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> xd
+[21Dec2024 00:09:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tenes plumas?
+[21Dec2024 00:09:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> nada
+[21Dec2024 00:09:38.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[21Dec2024 00:09:52.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> Scoot2023 yo te recomendaria algo importante
+[21Dec2024 00:10:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> que cosa
+[21Dec2024 00:10:07.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tener animales
+[21Dec2024 00:10:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> osea
+[21Dec2024 00:10:12.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> caballos
+[21Dec2024 00:10:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> reproduci
+[21Dec2024 00:10:27.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> cuando le chupas la sangre te llena un muslito
+[21Dec2024 00:10:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> si ya se quiero ir a buscar pero en la noche ire
+[21Dec2024 00:10:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[21Dec2024 00:10:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> ayudas?
+[21Dec2024 00:10:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[21Dec2024 00:11:01.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya va a ser de noche
+[21Dec2024 00:11:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya es
+[21Dec2024 00:12:25.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:12:25.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[21Dec2024 00:12:29.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> de paso la carne no te regenera nd
+[21Dec2024 00:13:16.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ningun animal alrededor xd
+[21Dec2024 00:13:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> xd
+[21Dec2024 00:14:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> man
+[21Dec2024 00:14:05.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me tengo q ir
+[21Dec2024 00:14:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Scoot2023> mrd
+[21Dec2024 00:14:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ire a cenar
+[21Dec2024 00:14:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bye
+[21Dec2024 00:14:19.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[21Dec2024 00:14:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[21Dec2024 00:14:19.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Blasv1901121
+[21Dec2024 00:14:19.672] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[21Dec2024 00:17:25.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[21Dec2024 00:17:25.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
