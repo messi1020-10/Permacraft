@@ -4530,6 +4530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-21 02:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 18:24:31 +0000"
@@ -6000,7 +6006,8 @@
       "rice": "2024-12-21 01:52:15 +0000",
       "cocoa": "2024-12-20 18:07:10 +0000",
       "sugar_cane": "2024-12-18 03:54:57 +0000",
-      "wheat": "2024-12-16 17:21:49 +0000"
+      "wheat": "2024-12-16 17:21:49 +0000",
+      "carrot": "2024-12-21 02:07:19 +0000"
     },
     "done": false
   },
